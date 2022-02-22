@@ -1,0 +1,30 @@
+# -*- coding: cp1251 -*-
+class Stationery:
+    title = str()
+    def draw (self):
+        print('«апуск отрисовки')
+class Pen(Stationery):
+    def draw(self):
+        print('–исуем ручкой')
+class Pencil(Stationery):
+    def draw(self):
+        print('–исуем карандашом')
+class Handle(Stationery):
+    def draw(self):
+        print('–исуем маркером')
+
+x = Stationery()
+pen = Pen()
+pencil = Pencil()
+handle = Handle()
+x.draw()
+pen.draw()
+pencil.draw()
+handle.draw()
+
+
+# 5. –еализовать класс Stationery (канцел€рска€ принадлежность). ќпределить в нем атрибут title
+# (название) и метод draw (отрисовка). ћетод выводит сообщение У«апуск отрисовки.Ф —оздать три
+# дочерних класса Pen (ручка), Pencil (карандаш), Handle (маркер). ¬ каждом из классов реализовать
+# переопределение метода draw. ƒл€ каждого из классов методы должен выводить уникальное сообщение.
+# —оздать экземпл€ры классов и проверить, что выведет описанный метод дл€ каждого экземпл€ра.

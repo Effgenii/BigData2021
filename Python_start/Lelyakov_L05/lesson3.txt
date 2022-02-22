@@ -1,0 +1,6 @@
+ivanov 30000
+petrov 30000
+sidorov 30000
+stolyarov 10000
+kuznetsov 10000
+ivan andreevich popov 10000

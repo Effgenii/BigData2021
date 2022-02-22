@@ -1,0 +1,77 @@
+# -*- coding: cp1251 -*-
+
+class Car:
+    speed = float
+    color = str
+    name = str
+    is_police = bool(0)
+    def __init__(self, speed, color, name):
+        self.speed = int(speed)
+        self.color = color
+        self.name = name
+
+    def go (self):
+        print ('машина', self.name, 'поехала')
+
+    def stop (self):
+        print ('машина', self.name, 'остановилась')
+
+    def turn (self, direction):
+        if direction == 'right':
+            print('машина', self.name, 'повернула направо')
+        elif direction == 'left':
+            print('машина', self.name, 'повернула налево')
+        else:
+            print('команда поворота не распознана, машина', self.name, 'едет пр€мо')
+
+    def show_speed (self):
+        print ('машина', self.name, 'едет со скоростью', self.speed)
+
+    def check_police (self):
+        if self.is_police == 1:
+            print ('машина', self.name,'полицейска€ машина')
+        else:
+            print ('машина', self.name,'не полицейска€ машина')
+
+class TownCar(Car):
+    def show_speed(self):
+        if self.speed > 60:
+            print('машина', self.name, 'едет с превышением скорости')
+        else:
+            print ('скорость машины', self.name, 'в норме')
+
+class SportCar(Car):
+    pass
+class WorkCar(Car):
+    def show_speed(self):
+        if self.speed > 40:
+            print('машина', self.name, 'едет с превышением скорости')
+        else:
+            print('скорость машины', self.name, 'в норме')
+class PoliceCar(Car):
+    is_police = 1
+
+zaz = TownCar(70, 'Blue', 'ZAZ')
+bmw = SportCar(360, 'Red', 'BMW')
+renault = WorkCar(30, 'Grey', 'Renault')
+police = PoliceCar(250,'White', 'Audi-Police')
+
+zaz.turn('right')
+zaz.show_speed()
+zaz.check_police()
+bmw.show_speed()
+renault.turn('left')
+renault.turn('налево')
+renault.show_speed()
+police.check_police()
+
+
+
+# 4. –еализуйте базовый класс Car. ” данного класса должны быть следующие атрибуты: speed, color, name,
+# is_police (булево). ј также методы: go, stop, turn(direction), которые должны сообщать, что
+# машина поехала, остановилась, повернула (куда). ќпишите несколько дочерних классов: TownCar,
+# SportCar, WorkCar, PoliceCar. ƒобавьте в базовый класс метод show_speed, который должен показывать
+# текущую скорость автомобил€. ƒл€ классов TownCar и WorkCar переопределите метод show_speed.
+# ѕри значении скорости свыше 60 (TownCar) и 40 (WorkCar) должно выводитьс€ сообщение о превышении скорости.
+# —оздайте экземпл€ры классов, передайте значени€ атрибутов. ¬ыполните доступ к атрибутам, выведите
+# результат. ¬ыполните вызов методов и также покажите результат.
