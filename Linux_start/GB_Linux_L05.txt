@@ -1,0 +1,95 @@
+1. Создать файл file1 и наполнить его произвольным содержимым. Скопировать его в file2. Создать символическую ссылку file3 на file1. 
+Создать жёсткую ссылку file4 на file1. Посмотреть, какие inode у файлов. Удалить file1. Что стало с остальными созданными файлами? 
+Попробовать вывести их на экран.
+
+student@Ubuntu-MySQL-VirtualBox:~$ pwd
+/home/student
+student@Ubuntu-MySQL-VirtualBox:~$ echo some text >file1
+student@Ubuntu-MySQL-VirtualBox:~$ cp file1 file2
+student@Ubuntu-MySQL-VirtualBox:~$ ln -s file1 file3
+student@Ubuntu-MySQL-VirtualBox:~$ ln file1 file4
+student@Ubuntu-MySQL-VirtualBox:~$ ll -i
+680307 -rw-r--r--  1 student student 8980 апр 22  2019 examples.desktop
+688814 -rw-rw-r--  2 student student   10 май 20 17:15 file1
+688810 -rw-rw-r--  1 student student   10 май 20 17:41 file2
+688827 lrwxrwxrwx  1 student student    5 май 20 17:44 file3 -> file1
+688814 -rw-rw-r--  2 student student   10 май 20 17:15 file4
+student@Ubuntu-MySQL-VirtualBox:~$ ll -i
+688810 -rw-rw-r--  1 student student   10 май 20 17:41 file2
+688827 lrwxrwxrwx  1 student student    5 май 20 17:44 file3 -> file1
+688814 -rw-rw-r--  1 student student   10 май 20 17:15 file4
+student@Ubuntu-MySQL-VirtualBox:~$ cat file2
+some text
+student@Ubuntu-MySQL-VirtualBox:~$ cat file3
+cat: file3: Нет такого файла или каталога
+student@Ubuntu-MySQL-VirtualBox:~$ cat file4
+some text
+
+2. Дать созданным файлам другие, произвольные имена. Создать новую символическую ссылку. Переместить ссылки в другую директорию.
+student@Ubuntu-MySQL-VirtualBox:~$ mv file2 file2_2
+student@Ubuntu-MySQL-VirtualBox:~$ mv file3 file3_3
+student@Ubuntu-MySQL-VirtualBox:~$ mv file4 file4_4
+student@Ubuntu-MySQL-VirtualBox:~$ ll
+-rw-rw-r--  1 student student   10 май 20 17:41 file2_2
+lrwxrwxrwx  1 student student    5 май 20 17:44 file3_3 -> file1
+-rw-rw-r--  1 student student   10 май 20 17:15 file4_4
+student@Ubuntu-MySQL-VirtualBox:~$ ln -s file2_2 file5
+688810 -rw-rw-r--  1 student student   10 май 20 17:41 file2_2
+688827 lrwxrwxrwx  1 student student    5 май 20 17:44 file3_3 -> file1
+688814 -rw-rw-r--  1 student student   10 май 20 17:15 file4_4
+652207 lrwxrwxrwx  1 student student    7 май 20 18:24 file5 -> file2_2
+student@Ubuntu-MySQL-VirtualBox:~$ mkdir trash
+
+student@Ubuntu-MySQL-VirtualBox:~$ mv file2_2 /home/student/trash/
+student@Ubuntu-MySQL-VirtualBox:~$ mv file3_3 /home/student/trash/
+student@Ubuntu-MySQL-VirtualBox:~$ mv file4_4 /home/student/trash/
+student@Ubuntu-MySQL-VirtualBox:~$ mv file5 /home/student/trash/
+student@Ubuntu-MySQL-VirtualBox:~$ cd trash
+student@Ubuntu-MySQL-VirtualBox:~/trash$ ll
+drwxrwxr-x  2 student student 4096 май 20 18:53 ./
+drwxr-xr-x 25 student student 4096 май 20 18:53 ../
+-rw-rw-r--  1 student student   10 май 20 17:41 file2_2
+lrwxrwxrwx  1 student student    5 май 20 17:44 file3_3 -> file1
+-rw-rw-r--  1 student student   10 май 20 17:15 file4_4
+lrwxrwxrwx  1 student student    7 май 20 18:24 file5 -> file2_2
+
+student@Ubuntu-MySQL-VirtualBox:~/trash$ cd ..
+student@Ubuntu-MySQL-VirtualBox:~$ rm -r trash
+
+3. Создать два произвольных файла. Первому присвоить права на чтение и запись для владельца и группы, только на чтение — для всех. 
+Второму присвоить права на чтение и запись только для владельца.
+student@Ubuntu-MySQL-VirtualBox:~$ echo 12345 > file1
+student@Ubuntu-MySQL-VirtualBox:~$ echo 12345 54321 > file2
+student@Ubuntu-MySQL-VirtualBox:~$ ll -i
+
+652207 -rw-rw-r--  1 student student    6 май 21 09:04 file1
+688782 -rw-rw-r--  1 student student   12 май 21 09:04 file2
+
+-- права первого файла и так - чтение и запись для владельца и группы, только на чтение — для всех?  
+-- при других правах можно было, например: chmod u=rw,g=rw,o=r file1
+
+student@Ubuntu-MySQL-VirtualBox:~/lesson$ chmod g-w file2
+student@Ubuntu-MySQL-VirtualBox:~/lesson$ chmod g-r file2
+student@Ubuntu-MySQL-VirtualBox:~/lesson$ chmod o-r file2
+-- можно также было забрать права одной строкой через запятую или "go-rw"
+tudent@Ubuntu-MySQL-VirtualBox:~/lesson$ ll
+
+-rw-rw-r--  1 student student    6 май 21 09:04 file1
+-rw-------  1 student student   12 май 21 09:04 file2
+
+4. Создать пользователя, обладающего возможностью выполнять действия от имени суперпользователя.
+-- первый вариант - создаем нового суперпользователя
+student@Ubuntu-MySQL-VirtualBox:~/lesson$ sudo useradd -ou 0 -g 0 admin
+student@Ubuntu-MySQL-VirtualBox:~/lesson$ sudo passwd admin
+-- второй вариант - добавляем пользователя в группу sudo
+usermod -aG sudo admin
+-- третий вариант - добаляем в корневую группу
+useradd -m -G root admin
+
+5. * Создать группу developer и нескольких пользователей, входящих в неё. Создать директорию для совместной работы. 
+Сделать так, чтобы созданные одними пользователями файлы могли изменять другие пользователи этой группы.
+
+6. * Создать в директории для совместной работы поддиректорию для обмена файлами, но чтобы удалять файлы могли только их создатели.
+
+7. * Создать директорию, в которой есть несколько файлов. Сделать так, чтобы открыть файлы можно было, только зная имя файла, 
+а через ls список файлов посмотреть было нельзя.

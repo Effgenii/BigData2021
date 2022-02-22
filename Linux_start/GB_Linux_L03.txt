@@ -1,0 +1,60 @@
+1. Управление пользователями:
+a) создать нового пользователя;
+student@Ubuntu-MySQL-VirtualBox:~$ sudo useradd -s /bin/bash -d /home/myuser -m myuser
+[sudo] пароль для student: 
+student@Ubuntu-MySQL-VirtualBox:~$ sudo passwd myuser
+Введите новый пароль UNIX: 
+Повторите ввод нового пароля UNIX: 
+passwd: пароль успешно обновлён
+
+b) убедиться, что информация о нем появилась в соответствующих файлах в системе;
+student@Ubuntu-MySQL-VirtualBox:~$ ls /home/
+myuser  student
+cat /etc/group
+myuser:x:1001:1001::/home/myuser:/bin/bash
+cat /etc/passwd
+myuser:x:1001:1001::/home/myuser:/bin/bash
+student@Ubuntu-MySQL-VirtualBox:~$ su myuser
+Пароль: 
+myuser@Ubuntu-MySQL-VirtualBox:/home/student$
+
+c) удалить созданного пользователя;
+student@Ubuntu-MySQL-VirtualBox:~$ ps au
+myuser    2825  0.0  0.2  29544  4900 pts/17   S    19:59   0:00 bash
+student@Ubuntu-MySQL-VirtualBox:~$ sudo kill -9 2825
+student@Ubuntu-MySQL-VirtualBox:~$ sudo deluser --remove-home myuser
+[sudo] пароль для student: 
+Идёт поиск файлов для сохранения/удаления ...
+Удаляется пользователь «myuser» ...
+Предупреждение: в группе `myuser' больше никого нет.
+Готово.
+
+2. Управление группами:
+a) создать группу;
+student@Ubuntu-MySQL-VirtualBox:~$ sudo groupadd mygroup
+student@Ubuntu-MySQL-VirtualBox:~$ cat /etc/group
+mygroup:x:1001:
+
+b) попрактиковаться в смене групп у пользователей;
+usermod -g mygroup user_1
+c) добавить пользователя в группу, не меняя основной;
+student@Ubuntu-MySQL-VirtualBox:~$ sudo usermod -aG mygroup student
+student@Ubuntu-MySQL-VirtualBox:~$ getent group
+mygroup:x:1001:student
+
+d) удалить пользователя из группы.
+sudo deluser student mygroup
+
+3. Создать пользователя с правами суперпользователя. Проверить результат.
+student@Ubuntu-MySQL-VirtualBox:~$ sudo useradd -s /bin/bash -d /home/myuser -m user1
+sudo usermod -aG sudo user1
+student@Ubuntu-MySQL-VirtualBox:~$ su user1
+Пароль: 
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+
+4. * Используя дополнительные материалы, выдать одному из созданных пользователей право на выполнение ряда команд, требующих прав суперпользователя (команды выбираем на своё усмотрение).
+user1@Ubuntu-MySQL-VirtualBox:/home/student$ sudo visudo
+
+user1 ALL=(ALL) NOPASSWD:ALL

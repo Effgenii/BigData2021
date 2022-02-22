@@ -1,0 +1,52 @@
+1. Потоки ввода/вывода. Создать файл, используя команду echo. Используя команду cat, прочитать содержимое всех файлов каталога etc, 
+ошибки перенаправить в отдельный файл.
+student@Ubuntu-MySQL-VirtualBox:~/l04$ echo 'file 1' >f1
+student@Ubuntu-MySQL-VirtualBox:~/l04$ ll
+итого 12
+drwxrwxr-x  2 student student 4096 май 17 16:44 ./
+drwxr-xr-x 24 student student 4096 май 17 16:43 ../
+-rw-rw-r--  1 student student    7 май 17 16:44 f1
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo cat \etc * 2> summary.txt
+
+2. Конвейер (pipeline). Использовать команду cut на вывод длинного списка каталога, чтобы отобразить только права доступа к файлам. 
+Затем отправить в конвейере этот вывод на sort и uniq, чтобы отфильтровать все повторяющиеся строки.
+student@Ubuntu-MySQL-VirtualBox:~$ pwd
+/home/student
+student@Ubuntu-MySQL-VirtualBox:~$ ls -la ~/ | cut -d " " -f '1' | sort | uniq | sed '$d'
+drwx------
+drwxrwxr-x
+drwxr-xr-x
+-rw-------
+-rw-r-----
+-rw-r--r--
+-rw-rw-r--
+
+3. Управление процессами.) Изменить конфигурационный файл службы SSH: /etc/ssh/sshd_config, отключив аутентификацию по паролю 
+PasswordAuthentication no. Выполните рестарт службы systemctl restart sshd (service sshd restart), верните аутентификацию по паролю, 
+выполните reload службы systemctl reload sshd (services sshd reload). В чём различие между действиями restart и reload? 
+Создайте файл при помощи команды cat > file_name, напишите текст и завершите комбинацией ctrl+d. Какой сигнал передадим процессу?
+
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo vi /etc/ssh/sshd_config
+student@Ubuntu-MySQL-VirtualBox:~$ cat > mytext
+1234567
+1234567
+
+EOF (end of file – конец файла), то есть поток ввода окончен.
+student@Ubuntu-MySQL-VirtualBox:~$ cat mytext
+1234567
+1234567
+
+
+4. Сигналы процессам. Запустите mc. Используя ps, найдите PID процесса, завершите процесс, передав ему сигнал 9.
+student@Ubuntu-MySQL-VirtualBox:~$ ps aux | grep mc
+student   6061  0.0  0.3  69120  7972 pts/17   Ss+  18:27   0:00 mc
+student   6075  0.0  0.0  21316  1020 pts/4    S+   18:27   0:00 grep --color=auto mc
+student@Ubuntu-MySQL-VirtualBox:~$ kill -9 6061
+student@Ubuntu-MySQL-VirtualBox:~$ ps aux | grep mc
+student   6077  0.0  0.0  21316  1088 pts/4    S+   18:27   0:00 grep --color=auto mc
+student@Ubuntu-MySQL-VirtualBox:~$ 
+
+
+

@@ -1,0 +1,25 @@
+1. Вывести на экран 3 раза имя пользователя, от которого запускается команда.
+
+#!/bin/bash
+for number in 1 2 3
+do
+echo $USER
+done
+
+2. Вывести с помощью цикла while все четные числа от 0 до 100 включительно.
+
+#!/bin/bash
+x=1
+while [ $x -le 50 ]; do
+	echo $(($x * 2))
+	x=$(($x+1))
+done
+
+3. Создать с помощью nano файл test.txt. Настроить автоматический бэкап этого файла раз в 10 минут в файл с названием test.txt.bak 
+с использованием cron.
+
+nano /home/student/test.txt
+
+*/10 * * * * student cp ~/test.txt ~/test.txt.bak
+
+service cron restart

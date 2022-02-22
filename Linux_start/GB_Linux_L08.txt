@@ -1,0 +1,59 @@
+1. Переустановить операционную систему (по желанию, для дополнительной практики)
+
+:) В течении курса несколько раз переустанавливал линукс на вирутальной машине после того как она "намерство" зависала после того как основная 
+система ночью выключала (или обновляла?) физическую машину с виртуалкой.  
+
+2. Подключить репозиторий Docker.
+student@Ubuntu-MySQL-VirtualBox:~$ sudo reboot
+student@Ubuntu-MySQL-VirtualBox:~$ sudo apt-get install apt-transport-https ca-certificates curl gnupg-agent software-properties-common -y
+student@Ubuntu-MySQL-VirtualBox:~$ sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+student@Ubuntu-MySQL-VirtualBox:~$ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+student@Ubuntu-MySQL-VirtualBox:~$ sudo apt update
+
+Сущ:7 http://ppa.launchpad.net/webupd8team/java/ubuntu xenial InRelease                                     
+Пол:8 https://download.docker.com/linux/ubuntu xenial InRelease [66,2 kB]
+Сущ:9 https://dbeaver.io/debs/dbeaver-ce  InRelease      
+Пол:10 https://download.docker.com/linux/ubuntu xenial/stable amd64 Packages [20,4 kB]
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo apt install docker-ce -y
+student@Ubuntu-MySQL-VirtualBox:~$ systemctl status docker
+● docker.service - Docker Application Container Engine
+   Loaded: loaded (/lib/systemd/system/docker.service; enabled; vendor preset: enabled)
+   Active: active (running) since Пн 2021-05-31 11:47:51 MSK; 52s ago
+     Docs: https://docs.docker.com
+ Main PID: 14601 (dockerd)
+    Tasks: 8
+   Memory: 55.7M
+      CPU: 403ms
+   CGroup: /system.slice/docker.service
+           └─14601 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker run hello-world
+
+3. Запустить контейнер с Ubuntu.
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker search ubuntu
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker pull ubuntu
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker run ubuntu
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker ps -l
+CONTAINER ID   IMAGE     COMMAND       CREATED          STATUS                      PORTS     NAMES
+3273747a4b46   ubuntu    "/bin/bash"   12 seconds ago   Exited (0) 11 seconds ago             youthful_curran
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker attach 3273747a4b46
+You cannot attach to a stopped container, start it first
+-- контейнер недоступен, т.к. падает сразу после старта. Сносим контейнер и создаем новый с командой.
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker run -it --name Ubuntu ubuntu /bin/bash
+root@1318fae4bfe4:/# 
+
+4. * Используя Dockerfile, собрать связку nginx + PHP-FPM в одном контейнере.
+
+FROM ubuntu
+MAINTAINER Student
+RUN apt-get update
+RUN apt-get install nginx -y php php-fpm php-mysqli
+VOLUME "/var/www/html"
+EXPOSE 80
+CMD /usr/sbin/nginx -g "daemon off;"
+
+
+docker build -t main_image_nginx_PHP

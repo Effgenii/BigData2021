@@ -1,0 +1,45 @@
+1. Подключить репозиторий с nginx любым удобным способом, установить nginx и потом удалить nginx, используя утилиту dpkg.
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo apt-add-repository ppa:nginx/stable
+student@Ubuntu-MySQL-VirtualBox:~$ sudo apt update
+student@Ubuntu-MySQL-VirtualBox:~$ sudo fuser -vki /var/lib/dpkg/lock
+student@Ubuntu-MySQL-VirtualBox:~$ sudo apt install nginx
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo service nginx stop
+student@Ubuntu-MySQL-VirtualBox:~$ dpkg -l | grep nginx 
+
+sudo dpkg -P nginx
+||/ Имя                          Версия              Архитектура         Описание
++++-============================-===================-===================-==============================================================
+un  nginx                        <нет>               <нет>               (описание недоступно)
+
+
+2. Установить пакет на свой выбор, используя snap.
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo apt install snapd
+student@Ubuntu-MySQL-VirtualBox:~$ snap find brave
+Name       Version  Publisher       Notes  Summary
+brave      1.24.86  brave           -      Brave Browser
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo snap install brave
+
+-- установка магазина приложений:
+student@Ubuntu-MySQL-VirtualBox:~$ sudo ln -s /var/lib/snapd/snap /snap
+student@Ubuntu-MySQL-VirtualBox:~$ sudo snap install snap-store
+
+
+3. Настроить iptables: разрешить подключения только на 22-й и 80-й порты.
+student@Ubuntu-MySQL-VirtualBox:~$ sudo iptables -P INPUT DROP
+student@Ubuntu-MySQL-VirtualBox:~$ sudo iptables -I INPUT 1 -p tcp --dport 80 -j ACCEPT
+student@Ubuntu-MySQL-VirtualBox:~$ sudo iptables -I INPUT 1 -p tcp --dport 22 -j ACCEPT
+
+
+4. * Настроить проброс портов локально с порта 80 на порт 8080.
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo iptables -A INPUT -i eth0 -p tcp --dport 80 -j ACCEPT
+student@Ubuntu-MySQL-VirtualBox:~$ sudo iptables -A INPUT -i eth0 -p tcp --dport 8080 -j ACCEPT
+student@Ubuntu-MySQL-VirtualBox:~$ sudo iptables -A PREROUTING -t nat -i eth0 -p tcp --dport 80 -j REDIRECT --to-port 8080
+
+
+
+

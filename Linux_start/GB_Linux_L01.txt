@@ -1,0 +1,30 @@
+информацию о версии ОС - команды uname -a
+
+Linux eugene-VirtualBox 5.8.0-43-generic #49~20.04.1-Ubuntu SMP Fri Feb 5 09:57:56 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+
+sudo apt update
+sudo apt install lsb
+lsb_release -a
+
+Вывод информации о дистрибьютиве:
+(результат работы команды lsb_release)
+
+LSB Version:	core-11.1.0ubuntu2-noarch:printing-11.1.0ubuntu2-noarch:security-11.1.0ubuntu2-noarch
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.2 LTS
+Release:	20.04
+Codename:	focal
+
+(результат работы команды hostnamectl)
+
+   Static hostname: eugene-VirtualBox
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 0cd2a5863f3e48bfbe83dab945b46905
+           Boot ID: 47cf81b2a84d427a913c3132debee12c
+    Virtualization: oracle
+  Operating System: Ubuntu 20.04.2 LTS
+            Kernel: Linux 5.8.0-43-generic
+      Architecture: x86-64
+
