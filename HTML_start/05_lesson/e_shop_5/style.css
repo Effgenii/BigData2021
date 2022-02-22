@@ -1,0 +1,180 @@
+/*Устанавливает стили блоков главной страницы сайта*/
+.container_main {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header_main {
+    background-color: aliceblue;
+    height: 125px;
+    margin-top: 5px;
+    font-style: italic;
+    font-size: 20px;
+    background: url(img/header.jpg);
+    background-size:contain;
+    
+
+}
+
+.header_main ul li {
+    display: inline;
+    outline: 1px solid grey;
+    margin: 5px;
+
+}
+/*Стили обычных заголовков (не на главной странице)*/
+.header{
+    height: 110px;
+    background: url(img/header.jpg);
+    background-size:contain;
+}
+
+.menu_main {
+    float: right;
+    font-weight: bold;
+}
+
+.logo_main {
+    display: inline;
+    outline: 1px solid grey;
+    float: left;
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+
+.content_main {
+    background-color: aqua;
+    height: 400px
+}
+
+.footer {
+    background-color: aliceblue;
+    height: 100px;
+    float: none;
+}
+
+.footer span {
+    float: right;
+    font-family: cursive;
+    font-style: italic;
+    margin-top: 15px;
+    margin-right: 45px;
+}
+
+
+/*Изменение стилей списка характеристик на странице товара*/
+.list {
+    color: brown;
+    letter-spacing: 5px;
+    text-indent: 15px;
+    list-style-image: url(img/arrow.jpg);
+}
+
+/*Стиль краткого описания на странице товара*/
+.shortdescription {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+/*Заглавная буква краткого описания: На странице просмотра товара каталога в каждом параграфе сделать первую букву первого слова другим шрифтом и размером*/
+.shortdescription::first-letter {
+    color: red;
+    font-size: 150%;
+}
+
+/*Стиль подробного описания на странице товара*/
+.detdescription {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+/*Заглавная буква полного описания. На странице просмотра товара каталога в каждом параграфе сделать первую букву первого слова другим шрифтом и размером*/
+.detdescription::first-letter {
+    color: red;
+    font-size: 150%;
+}
+
+
+/*Стиль подсвечивания пунктов меню в шапках страниц. При наведении на меню сайта цвет ссылок должен меняться на произвольный.*/
+.menu li a:hover {
+    color: red;
+
+}
+.menu {font-size: 25px;}
+
+/*Стиль формы для обратной связи на странице контактов*/
+.requestformstyle1 {
+    width: 600px;
+    height: 100px;
+    color: grey;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+/*Стиль формы для выбора типа обращения на странице контактов*/
+.typerequeststyle {
+    width: 600px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*Стиль подсвечивания поля для вводе емейла на странице контактов*/
+.emailfieldstyle {
+    width: 450px;
+    text-transform: capitalize;
+
+}
+
+.emailfieldstyle:focus {
+    color: white;
+    background-color: grey;
+
+}
+
+/*Стиль кнопки "Отправить" на странице контактов*/
+.buttonsend {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/*Стиль таблицы с параметрами товара*/
+.tableofparam {
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+.tableofparamtd {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    /*Стиль блока с картинкой товара и ссылкой на страницу каталога*/
+
+    .item_block {
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin-right: 15px;
+        float: left;                
+    }
+}
+
+/*Стиль картинки на странице товара при наведении рамка исчезает, но картинка не двигается*/
+.picture {
+    outline: 2px solid grey;
+    float: left;
+    margin-right: 20px;
+}
+
+.picture:hover {
+    outline: 0px solid grey;
+}
+.item_block {width: 200px; height: 200px; float: left; border: 1px solid black; margin-right: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;}

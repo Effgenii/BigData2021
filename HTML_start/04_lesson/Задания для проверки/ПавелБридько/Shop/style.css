@@ -1,0 +1,155 @@
+body {
+    background-color: #f8f8f8;
+}
+
+.heading {
+    color: red;
+}
+
+p {
+    font-size: 14px;
+}
+
+.menu {
+    list-style-type: none;
+    font-family: Serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.headers {
+    color: black;
+    font-size: 18px;
+    font-weight: 400px;
+    background-color: #eaeaea;
+}
+
+.short {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.deteiled {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+ .list li{
+    list-style: none; /* Убираем исходные маркеры */
+    background: url(img/symb.png) no-repeat 0 5%; /* Параметры фона */
+    background-size: contain;
+    padding-left: 24px; /* Смещаем текст вправо */ 
+   }
+
+.input {
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+}
+
+::placeholder {
+  color: green;
+  font-size: 1em;
+}
+
+.img_phone {
+    outline: 2px solid #000;
+}
+
+.menu li {
+    width: 100px;
+    height: 30px;
+    list-style-type: none;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.menu li:first-child {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.menu li:last-child {
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.menu li:nth-last-child(2n) {
+    background-color: #ccc;
+} 
+
+.menu li:nth-last-child(2n) a {
+  color: orange;
+} 
+
+.menu li a:hover {
+    color: red;
+}
+
+.menu li a:active {
+    color: green;
+}
+
+.list_1 {
+    list-style-type: none;
+}
+
+.list_1 li:nth-child(3)::after {
+    content: " new";
+    color: blueviolet;
+    text-transform: uppercase;
+} 
+
+.menu li:hover:before {
+    content: " >>";
+    color: red;
+}
+
+.text:first-letter {
+    font-size: 30px;
+    color: brown;
+}
+
+table {
+    border: 1px;
+    width: 600px;
+    height: 300px;
+}
+
+td {
+    border: 1px solid #000;
+}
+
+/* outline */
+
+form INPUT[type="email"]:active {
+    background-color: red;
+    color: red;
+}
+
+form INPUT[type="email"] {
+    
+    color: red;
+    text-transform: capitalize;
+    
+   }
+
+.first_row {
+    height: 200px;
+}
+
+.img_phone:hover {
+    outline: inherit;
+}
+
+
+
+
+
+
+

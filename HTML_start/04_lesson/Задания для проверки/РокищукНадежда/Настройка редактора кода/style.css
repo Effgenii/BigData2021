@@ -1,0 +1,141 @@
+div{
+    width: 500px;
+    height: 200px;
+}
+.five{
+    background: green;
+}
+.table td {
+    border: 1px solid #000; 
+    padding-left: 1px;
+    padding-top: 1px;
+    vertical-align: top;
+    border-collapse: collapse;
+}
+.table {
+    width: 400px;
+    height: 200px;
+    border-spacing: 1px;
+}
+
+.charact li:nth-child(3):after{
+    content: "_new";
+    color: blueviolet;
+    text-transform: uppercase;
+}
+
+.menu li:first-child {
+   border-top-right-radius: 5px;
+   border-top-left-radius: 5px;
+    
+}
+.menu li:last-child {
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+    
+}
+/*.menu li:nth-child(3){
+  background-color: #ccc;  
+    
+}
+.menu li:nth-child(3) a{
+  background-color: orange;  
+    
+}*/
+.menu li a:hover {
+    color: brown;
+}
+.menu li a:active {
+    color: green;
+}
+body {
+    background: #f8f8f8;
+}
+.menu li{   
+    list-style-type: none;
+    font-size: 22px;
+    color: cornflowerblue;
+    font-family: cursive;
+    text-transform: uppercase;
+    border: 1px solid black;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+}
+.heading {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+.briefdesc {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+.desc{
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+.charact{
+    list-style-image: url(img/mark.png);
+    color: darkblue;
+    font-size: 20px;
+    font-style: oblique;
+    line-height: 18px;
+}
+img[alt="book1"] {
+    outline: 4px solid green;   
+}
+img[alt="book1"]:hover{
+	outline-color: transparent;
+}
+input{
+    border: 1px solid #cccccc;  
+    font-size: 16px;
+    font-style: italic;
+    font-family: Tahoma;
+    background-color:beige;
+    color: saddlebrown;
+}
+input[type="text"] {
+    width: 250px;
+    height: 25px;
+    text-transform: capitalize; 
+}
+
+p:first-letter{
+text-transform: uppercase;
+color: red;
+font-size: 24px;
+}
+
+input[type="email"] {
+    width: 240px;
+    height: 25px; 
+}
+
+input[type="email"]:focus {
+  background-color: red;
+  color: blue;
+}
+input[type="submit"] {
+    font-size: 16px;
+    font-style: normal;
+    border: 2px solid grey;
+    background: beige  ;
+}
+input[type="reset"] {
+    font-size: 16px;
+    font-style: normal;
+    border: 2px solid grey;
+    background: beige  ;
+}
+textarea{
+    border: 1px solid #cccccc; 
+    background-color:beige;
+}

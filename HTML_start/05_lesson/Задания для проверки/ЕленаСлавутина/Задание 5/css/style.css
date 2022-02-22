@@ -1,0 +1,295 @@
+body {
+    background-color: #f8f8f8;
+}
+
+.container {
+    width: auto;
+    margin: 0 auto;
+
+    /* position: relative*/
+    ;
+}
+
+.header {
+    height: auto;
+    width: 100%;
+    background-image: url("/image/book-star-open-book-magic-wallpaper.jpg");
+    float: left;
+
+}
+
+.logo {
+    /* position: absolute;*/
+
+
+    margin-left: 30px;
+    float: left;
+    width: 10%;
+
+
+
+}
+
+.logo img {
+    width: 80%;
+
+}
+
+.menu_div {
+    width: 75%;
+    float: left;
+    
+}
+
+.menu {
+    
+
+    margin-right: 10px;
+    float: right;
+
+}
+
+.menu li {
+    font-style: italic;
+    font-size: 20px;
+    list-style-type: none;
+    float: left;
+    padding-left: 10px;
+}
+
+.menu li a {
+    color: #8B00FF;
+}
+
+
+.menu li a:hover {
+    color: deeppink;
+}
+
+.center {
+    float: left;
+    width: 100%;
+    
+    height: 400px;
+    background-image: url("/image/book-header.png");
+
+}
+
+
+
+.footer {
+    font-size: 12px;
+    font-family: sans-serif;
+    height: 100px;
+    padding-right: 50px;
+    padding-top: 50px;
+    text-align: right;
+    background-color: antiquewhite;
+    vertical-align: middle;
+
+}
+
+.headings1 {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+
+.top {
+    float: left;
+    width: 100%;
+}
+
+.image {
+    float: left;
+    width: 25%;
+
+}
+
+.book {
+
+    float: left;
+    width: 75%;
+}
+
+.short_description {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+
+}
+
+.short_description a {
+    color: blue;
+    font-size: 14px;
+}
+
+.detaileddescription {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    list-style-type: none;
+
+}
+
+.specifications {
+    color: #484343;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    list-style-type: none;
+    list-style-image: url('/image/marker.jpg');
+}
+
+
+
+.border img {
+    border: 4px solid green;
+    width: 40%;
+
+}
+
+
+.border1 img {
+    border: 4px solid green;
+    width: 90%;
+
+}
+
+.block1 {
+    float: left;
+    width: 29%;
+    /*border: 1px solid;*/
+}
+
+.block2 {
+    text-align: center;
+    float: left;
+    width: 39%;
+    /*  border: 1px solid;*/
+}
+
+
+input {
+    width: 290px;
+    height: 18px;
+    font-family: cursive;
+    color: brown;
+    font-size: 12px;
+}
+
+input:active::first-letter {
+    color: red;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.comments {
+    color: darkcyan;
+    font-size: 12px;
+}
+
+.comments:first-letter {
+    font-size: 16px;
+}
+
+input[type=submit],
+input[type=reset] {
+    width: 290px;
+    height: 22px;
+    font-weight: bold;
+    color: brown;
+    font-size: 12px;
+}
+
+.sorry {
+    height: 500px;
+    width: 1200px;
+    margin: auto;
+    background-image: url(image/%D1%83%D0%BF%D0%BF%D1%81.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 26px;
+    color: brown;
+    border: 4px solid #8B8B8B;
+    align-content: center;
+    align-items: center;
+
+}
+
+.short_description::first-letter {
+    font-size: 36px;
+    color: darkred;
+
+}
+
+br::first-letter {
+    font-size: 36px;
+    color: darkred;
+
+}
+
+.border img:hover {
+    border: none;
+    width: 40%;
+
+}
+
+.border:hover {
+    border: 0px;
+}
+
+.caption td {
+    text-align: center;
+    color: blue;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea
+}
+
+
+td,
+tr {
+    border: 2px green solid;
+
+    padding-left: 20px;
+    border-spacing: 20px;
+    text-align: left;
+}
+
+table {
+    margin: auto;
+    border: 4px blue solid;
+    border-radius: 10px !important;
+    border-collapse: collapse;
+}
+.buy{
+    font-size: 24px;
+    font-family: fantasy;
+    color: aliceblue;
+    background-color: blue;
+    border-radius: 10px;
+    
+    
+}
+.buy:hover{
+    color: black;
+    background-color: #f44336;
+    
+    cursor: pointer;
+        
+}
+.buy:active{
+    color: aliceblue;
+    background-color: blue;
+    border-radius: 10px;
+  transform: translateY(20px);
+}
+
+
+

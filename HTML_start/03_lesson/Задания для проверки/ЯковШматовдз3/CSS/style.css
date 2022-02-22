@@ -1,0 +1,74 @@
+body {
+    background: #f8f8f8;
+    text-align: justify;
+}
+
+
+/*внешний вид главного меню*/
+
+li a {
+    font-size: 18px;
+    font-family: monospace;
+    color: blueviolet;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    border: 1px solid black;
+    text-align: center;
+    color: baek;
+    font-size: 18px;
+    font-weight: 400;
+    background: #eaeaea;
+}
+
+h4 {
+    text-align: center
+}
+
+p3 {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    text-height: 16px;
+}
+
+p {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    text-height: 24px;
+    text-align: left;
+    font-style: italic;
+}
+
+.list li {
+    color: gray;
+    font-size: 15px;
+    font-weight: 400;
+    text-height: 30px;
+    text-align: left;
+    list-style: circle;
+}
+
+img[alt="phone"] {
+    border: 3px solid grey;
+}
+
+input,
+textarea {
+    width: auto;
+    color: #484343;
+    font-size: 14px;
+    font-weight: 600;
+    text-height: 24px;
+    text-align: left;
+    font-style: italic;
+}

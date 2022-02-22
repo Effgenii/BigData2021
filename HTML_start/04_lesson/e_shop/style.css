@@ -1,0 +1,101 @@
+body {
+    background-color: "#f8f8f8";
+}
+
+/*Изменение стилей списка характеристик на странице товара*/
+.list {
+    color: brown;
+    letter-spacing: 5px;
+    text-indent: 15px;
+    list-style-image: url(img/arrow.jpg);
+}
+
+/*Стиль краткого описания на странице товара*/
+.shortdescription {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+/*Заглавная буква краткого описания: На странице просмотра товара каталога в каждом параграфе сделать первую букву первого слова другим шрифтом и размером*/
+.shortdescription::first-letter {
+    color: red;
+    font-size: 150%;
+}
+
+/*Стиль подробного описания на странице товара*/
+.detdescription {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+/*Заглавная буква полного описания. На странице просмотра товара каталога в каждом параграфе сделать первую букву первого слова другим шрифтом и размером*/
+.detdescription::first-letter {
+    color: red;
+    font-size: 150%;
+}
+
+
+/*Стиль подсвечивания пунктов меню в шапках страниц. При наведении на меню сайта цвет ссылок должен меняться на произвольный.*/
+.menu li a:hover {
+    color: red;
+
+}
+
+/*Стиль формы для обратной связи на странице контактов*/
+.requestformstyle1 {
+    width: 600px;
+    height: 100px;
+    color: grey;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+/*Стиль формы для выбора типа обращения на странице контактов*/
+.typerequeststyle {
+    width: 600px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*Стиль подсвечивания поля для вводе емейла на странице контактов*/
+.emailfieldstyle {
+    width: 450px;
+    text-transform: capitalize;
+
+}
+
+.emailfieldstyle:focus {
+    color: white;
+    background-color: grey;
+
+}
+
+/*Стиль кнопки "Отправить" на странице контактов*/
+.buttonsend {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/*Стиль таблицы с параметрами товара*/
+.tableofparam {
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+.tableofparamtd {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+/*Стиль картинки на странице товара при наведении рамка исчезает, но картинка не двигается*/
+.picture {
+    outline:2px solid grey;
+}
+.picture:hover {
+    outline:0px solid grey;
+}

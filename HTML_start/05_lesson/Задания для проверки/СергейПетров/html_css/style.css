@@ -1,0 +1,313 @@
+body {
+    background: #f8f8f8;
+}
+
+.menu {
+    font-size: 16px;
+    margin: 0;
+    padding-left: 0px;
+    width: 100%;
+    text-align: right;
+}
+
+.menu li {
+    list-style-type: none; 
+    display: inline;
+    padding: 3px;
+    vertical-align: middle;
+    height: 50px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: green;
+}
+
+
+.copy {
+    text-align: center;
+}
+
+
+.title_item {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background: #eaeaea;
+}
+
+.short {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.item_img {
+    width: 100%;
+    outline: 3px solid green;
+}
+
+.item_img:hover {
+    outline: none;
+}
+
+.full {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.list {
+    color: #6a9175;
+    font-style: oblique;
+    font-weight: 600;
+}
+
+.list > li {
+    list-style-type: none; /* Убираем маркеры у списка */
+}
+
+.list > li:before {
+    content: "↦ "; /* Добавляем в качестве маркера символ */
+}
+
+.other {
+    text-align: center;
+}
+
+input[type="submit"], input[type="reset"] {
+    width: 15%;
+    color: black;
+
+}
+
+form {
+    line-height: 30px;
+    text-align: center;
+}
+
+input {
+    width: 30%;
+    background-color: #ffe; /* Цвет фона */
+    color: green; /* Цвет текста */
+}
+
+textarea {
+    width: 30%;
+    background-color: #ffe; /* Цвет фона */
+    color: green; /* Цвет текста */
+}
+
+.sex {
+    width: 3%;
+}
+
+.hobby {
+    width: 3%;
+}
+
+.p_contacts {
+    margin: 0;
+    text-align: center;
+}
+
+
+.product {
+    display: flex;
+}
+
+.product > div {
+    text-align: center;
+    margin: 10px;
+}
+
+.product > div > a > img {
+    width: 100%;
+    border: 3px solid green;
+}
+
+.product > div > a {
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    color:red;
+}
+
+.menu li a:active {
+    color: blue;
+}
+
+
+.index_list li:nth-child(3):after {
+    content: " new";
+    color: blueviolet;
+    text-transform: uppercase;
+}
+
+.menu li:hover:after {
+    content: " >>";
+    color:red;
+}
+
+.text:first-letter {
+    font-size: 30px;
+    color: brown;
+}
+
+
+.table {
+    border-collapse: collapse;
+    width: 400px;
+    height: 200px;
+}
+
+.first_row {
+    height: 20px;
+}
+
+
+.table td {
+    border: 3px solid green;
+    padding-left: 10px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.five {
+    background-color: orange;
+}
+
+.logo {
+    width: 50px;
+}
+
+.logo img {
+    width: 50px;
+    padding-left: 10px;
+}
+
+.header {
+    display: flex;
+}
+
+
+.menu_div {
+    display:flex;
+    Justify-content: center;
+    align-items:center;
+}
+
+
+.header div:nth-child(2) {
+    vertical-align: middle;
+    width: 100%;
+}
+
+input {
+    text-transform: capitalize;
+}
+
+.table_item {
+    width: 400px;
+    height: 100px;
+    border: 1px solid green;
+    border-collapse: collapse;
+}
+
+.table_item td {
+    border: 3px solid green;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+.zero {
+    background: grey;
+}
+
+
+.note {
+    font-style: italic;
+}
+
+.note a {
+    text-decoration: none;
+    font-weight: 800;
+    color: green;
+}
+
+.container { 
+    outline: 1px solid #000;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.footer {
+   background: #debc5f; 
+}
+
+.footer p {
+       text-align: right;
+       padding: 5px 5px 0px 0px;
+}
+
+.image {
+    width: 40%;
+    padding-right: 10px;
+    float: left;
+    clear:both;
+}
+
+
+.buy {
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #57ad69;
+    border-radius: 30px;
+    right: -300px;
+    top: 5px;
+}
+
+.buy:hover {
+    background: red;
+}
+
+.buy:active {
+    background: orange;
+}
+
+.title {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 90px;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.h1 {
+    font-size: 40px;
+    font-weight: 600;
+    width: 200px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+
+.mappa {
+    width: 100%;
+    height: 374px;
+}
