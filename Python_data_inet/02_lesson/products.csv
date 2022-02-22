@@ -1,0 +1,588 @@
+,Надгруппа,Группа товаров,Подгруппа товаров,Товар,Общий рейтинг,Безопасность,Натуральность,Пищевая ценность,Качество,Ссылка на сайт
+0,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Экомилк"" 3,2% пастеризованное",-1,95,75,67,79,https://roscontrol.com/product/moloko-ekomilk/
+1,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Ашан"" 2,5%, пастеризованное",76,88,70,61,86,https://roscontrol.com/product/ashan-25-pasterizovannoe/
+2,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Вологодское лето"" 2,5%, пастеризованное",70,83,70,66,62,https://roscontrol.com/product/vologodskoe-leto-25-pasterizovannoe/
+3,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Молоко нашей дойки"" 2,5%, пастеризованное",73,90,70,62,70,https://roscontrol.com/product/moloko-nashey-doyki-25-pasterizovannoe/
+4,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко Billa 2,5%, пастеризованное",72,89,65,61,73,https://roscontrol.com/product/billa-25-pasterizovannoe/
+5,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Сарафаново"" 2,5%, пастеризованное",72,89,65,62,73,https://roscontrol.com/product/sarafanovo-25-pasterizovannoe/
+6,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Простоквашино"" 2,5%, пастеризованное",75,89,70,62,80,https://roscontrol.com/product/prostokvashino-25-pasterizovannoe/
+7,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Домик в деревне"" 2,5%, пастеризованное",73,86,70,62,75,https://roscontrol.com/product/moloko-pasterizovannoe-domik-v-derevne-2-5/
+8,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Зеленая линия / Маркет Перекресток"", 3,2% пастеризованное",75,80,80,67,73,https://roscontrol.com/product/zelenaya-liniya-market-perekrestok-32-pasterizovannoe/
+9,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Искренне Ваш"", 3,2% пастеризованное",70,62,70,66,83,https://roscontrol.com/product/iskrenne-vash-32-pasterizovannoe/
+10,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко Globus, 3,2% пастеризованное",75,66,75,67,93,https://roscontrol.com/product/globus-32-pasterizovannoe/
+11,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Вологжанка"", 3,2% пастеризованное",72,86,75,66,59,https://roscontrol.com/product/vologganka-32-pasterizovannoe-1/
+12,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Село Зеленое"" 3,2% пастеризованное",77,88,70,67,82,https://roscontrol.com/product/moloko-selo-zelenoe-3-2-pasterizovannoe/
+13,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Красная цена"", 3,2%, ультрапастеризованное",71,83,60,66,76,https://roscontrol.com/product/krasnaya-tsena-32-ultrapasterizovannoe/
+14,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Простоквашино"" 3,2% ультрапастеризованное",73,88,65,66,73,https://roscontrol.com/product/moloko-prostokvashino-3-2/
+15,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Село Зеленое"" 3,2% ультрапастеризованное",77,91,65,66,84,https://roscontrol.com/product/selo-zelenoe-32-ultrapasterizovannoe/
+16,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Простоквашино"" отборное, от 3,4% до 4,5% пастеризованное",82,92,80,63,91,https://roscontrol.com/product/prostokvashino-otbornoe-ot-34-do-45-pasterizovannoe/
+17,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Останкинское"" 3,2% ультрапастеризованное",68,97,75,66,32,https://roscontrol.com/product/ostankinskoe-32-ultrapasterizovannoe/
+18,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Экомилк"" 3,2% пастеризованное",-1,95,75,67,79,https://roscontrol.com/product/moloko-ekomilk/
+19,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Ашан"" 2,5%, пастеризованное",76,88,70,61,86,https://roscontrol.com/product/ashan-25-pasterizovannoe/
+20,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Вологодское лето"" 2,5%, пастеризованное",70,83,70,66,62,https://roscontrol.com/product/vologodskoe-leto-25-pasterizovannoe/
+21,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Молоко нашей дойки"" 2,5%, пастеризованное",73,90,70,62,70,https://roscontrol.com/product/moloko-nashey-doyki-25-pasterizovannoe/
+22,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко Billa 2,5%, пастеризованное",72,89,65,61,73,https://roscontrol.com/product/billa-25-pasterizovannoe/
+23,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Сарафаново"" 2,5%, пастеризованное",72,89,65,62,73,https://roscontrol.com/product/sarafanovo-25-pasterizovannoe/
+24,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Простоквашино"" 2,5%, пастеризованное",75,89,70,62,80,https://roscontrol.com/product/prostokvashino-25-pasterizovannoe/
+25,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Домик в деревне"" 2,5%, пастеризованное",73,86,70,62,75,https://roscontrol.com/product/moloko-pasterizovannoe-domik-v-derevne-2-5/
+26,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Зеленая линия / Маркет Перекресток"", 3,2% пастеризованное",75,80,80,67,73,https://roscontrol.com/product/zelenaya-liniya-market-perekrestok-32-pasterizovannoe/
+27,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Искренне Ваш"", 3,2% пастеризованное",70,62,70,66,83,https://roscontrol.com/product/iskrenne-vash-32-pasterizovannoe/
+28,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко Globus, 3,2% пастеризованное",75,66,75,67,93,https://roscontrol.com/product/globus-32-pasterizovannoe/
+29,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Вологжанка"", 3,2% пастеризованное",72,86,75,66,59,https://roscontrol.com/product/vologganka-32-pasterizovannoe-1/
+30,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Село Зеленое"" 3,2% пастеризованное",77,88,70,67,82,https://roscontrol.com/product/moloko-selo-zelenoe-3-2-pasterizovannoe/
+31,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Красная цена"", 3,2%, ультрапастеризованное",71,83,60,66,76,https://roscontrol.com/product/krasnaya-tsena-32-ultrapasterizovannoe/
+32,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Простоквашино"" 3,2% ультрапастеризованное",73,88,65,66,73,https://roscontrol.com/product/moloko-prostokvashino-3-2/
+33,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Село Зеленое"" 3,2% ультрапастеризованное",77,91,65,66,84,https://roscontrol.com/product/selo-zelenoe-32-ultrapasterizovannoe/
+34,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Простоквашино"" отборное, от 3,4% до 4,5% пастеризованное",82,92,80,63,91,https://roscontrol.com/product/prostokvashino-otbornoe-ot-34-do-45-pasterizovannoe/
+35,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Останкинское"" 3,2% ультрапастеризованное",68,97,75,66,32,https://roscontrol.com/product/ostankinskoe-32-ultrapasterizovannoe/
+36,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Сарафаново"" 3,2% ультрапастеризованное",71,97,70,67,49,https://roscontrol.com/product/sarafanovo-32-ultrapasterizovannoe/
+37,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Валио"" 3,2% ультрапастеризованное",73,97,80,65,49,https://roscontrol.com/product/valio-32-ultrapasterizovannoe/
+38,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Авида"" 3,2% ультрапастеризованное",63,97,75,66,15,https://roscontrol.com/product/avida-32-ultrapasterizovannoe/
+39,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Вкуснотеево"" 3,2% пастеризованное",80,97,75,67,82,https://roscontrol.com/product/vkusnotieievo-3-2-pastierizovannoie/
+40,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Асеньевская ферма"" 3,2% пастеризованное",73,94,75,67,56,https://roscontrol.com/product/asenevskaya-ferma-32-pasterizovannoe/
+41,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Рузское"" 3,2-4% пастеризованное",65,0,0,0,0,https://roscontrol.com/product/ruzskoe-32-4-pasterizovannoe-tselnoe/
+42,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Домик в деревне"" 3,5% пастеризованное",61,0,0,0,0,https://roscontrol.com/product/domik-v-derevne-35-tselnoe-pasterizovannoe/
+43,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Мамуля"" 3,2% ультрапастеризованное",61,0,0,0,0,https://roscontrol.com/product/mamulya-32-ultrapasterizovannoe/
+44,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Вологжанка"" 1,5% пастеризованное",59,0,0,0,0,https://roscontrol.com/product/vologganka-15-pasterizovannoe/
+45,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Простоквашино"" 3,5% пастеризованное",56,0,0,0,0,https://roscontrol.com/product/prostokvashino-35-tselnoe-pasterizovannoe/
+46,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Дмитровский молочный завод"", 3,2%, ультрапастеризованное",63,48,60,67,77,https://roscontrol.com/product/dmitrovskiy-molochniy-zavod-32-ultrapasterizovannoe/
+47,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Красная цена"" 3,2% пастеризованное",57,66,80,65,17,https://roscontrol.com/product/krasnaya-tsena-32-pasterizovannoe/
+48,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Домик в деревне"" 3,2% ультрапастеризованное",67,88,70,65,46,https://roscontrol.com/product/moloko-domik-v-derevne-ultrapasterizovannoe-32/
+49,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Афанасий"" 3,2% пастеризованное",71,94,75,67,48,https://roscontrol.com/product/afanasiy-33-pasterizovannoe/
+50,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Дмитровский молочный завод"" 3,2% пастеризованное",56,0,0,0,0,https://roscontrol.com/product/dmitrovskiy-molochniy-zavod-32-pasterizovannoe/
+51,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Авида"" 3,2% пастеризованное",-1,0,0,0,0,https://roscontrol.com/product/avida-32-pasterizovannoe/
+52,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""Честное коровье молоко"", 3,2%, ультрапастеризованное",-1,0,0,0,0,https://roscontrol.com/product/chestnoe-korove-moloko-33-ultrapasterizovannoe/
+53,Продукты,Молочные продукты,Молоко - рейтинг,"Молоко ""36 копеек"", 3,2%, ультрапастеризованное",-1,0,0,0,0,https://roscontrol.com/product/36-kopeek-32-ultrapasterizovannoe/
+54,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Коровка из Кореновки"" отборный, 3,2-4,8%",83,91,85,72,83,https://roscontrol.com/product/kefir-korovka-iz-korenovki-otborniy-32-48/
+55,Продукты,Молочные продукты,Кефир - рейтинг,"""Чабан"" 2,5%",82,97,75,68,86,https://roscontrol.com/product/chaban-25/
+56,Продукты,Молочные продукты,Кефир - рейтинг,"""Простоквашино"" 2,5%",80,97,75,69,77,https://roscontrol.com/product/prostokvashino-25/
+57,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир Globus, 3,2%",75,88,80,69,61,https://roscontrol.com/product/kefir-globus-32/
+58,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Асеньевская ферма"", 3,2%",79,88,80,70,77,https://roscontrol.com/product/kefir-asenevskaya-ferma-32/
+59,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Вологодское лето"", 3,2%",74,88,75,71,61,https://roscontrol.com/product/kefir-vologodskoe-leto-32/
+60,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир "" Наша семья/Лакомо"", 3,2%",81,94,80,73,78,https://roscontrol.com/product/kefir-nasha-semya-lakomo/
+61,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Простоквашино"", 3,2%",81,88,75,71,89,https://roscontrol.com/product/kefir-prostokvashino/
+62,Продукты,Молочные продукты,Кефир - рейтинг,Кефир BioMax 1%,81,95,75,82,72,https://roscontrol.com/product/kefir-biomax-1/
+63,Продукты,Молочные продукты,Кефир - рейтинг,"Биокефир ""Вкуснотеево"" 1%",75,95,80,74,51,https://roscontrol.com/product/produkt-kislomolochniy-vkusnoteevo-1/
+64,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Простоквашино"" 1%",77,95,80,66,67,https://roscontrol.com/product/kefir-prostokvashino-1/
+65,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Домик в деревне"" 1%",79,95,75,74,72,https://roscontrol.com/product/kefir-domik-v-derevne-1/
+66,Продукты,Молочные продукты,Кефир - рейтинг,"""Сарафаново"" 2,5",75,94,75,67,64,https://roscontrol.com/product/sarafanovo-25/
+67,Продукты,Молочные продукты,Кефир - рейтинг,"""Большая кружка"" 2,5%",72,97,75,69,45,https://roscontrol.com/product/bolshaya-krugka-25/
+68,Продукты,Молочные продукты,Кефир - рейтинг,"""Свежее завтра"" 2,5%",71,96,75,70,42,https://roscontrol.com/product/svegee-zavtra-25/
+69,Продукты,Молочные продукты,Кефир - рейтинг,"""Рузский"" 2,5%",75,97,80,69,52,https://roscontrol.com/product/ruzskiy-25/
+70,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Рузский"" 3,2-4%",53,91,0,70,52,https://roscontrol.com/product/kefir-ruzskiy-32-4/
+71,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Милава""",74,99,85,71,42,https://roscontrol.com/product/kefir-milava/
+72,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Коровка из Кореновки"" отборный, 3,2-4,8%",83,91,85,72,83,https://roscontrol.com/product/kefir-korovka-iz-korenovki-otborniy-32-48/
+73,Продукты,Молочные продукты,Кефир - рейтинг,"""Чабан"" 2,5%",82,97,75,68,86,https://roscontrol.com/product/chaban-25/
+74,Продукты,Молочные продукты,Кефир - рейтинг,"""Простоквашино"" 2,5%",80,97,75,69,77,https://roscontrol.com/product/prostokvashino-25/
+75,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир Globus, 3,2%",75,88,80,69,61,https://roscontrol.com/product/kefir-globus-32/
+76,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Асеньевская ферма"", 3,2%",79,88,80,70,77,https://roscontrol.com/product/kefir-asenevskaya-ferma-32/
+77,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Вологодское лето"", 3,2%",74,88,75,71,61,https://roscontrol.com/product/kefir-vologodskoe-leto-32/
+78,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир "" Наша семья/Лакомо"", 3,2%",81,94,80,73,78,https://roscontrol.com/product/kefir-nasha-semya-lakomo/
+79,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Простоквашино"", 3,2%",81,88,75,71,89,https://roscontrol.com/product/kefir-prostokvashino/
+80,Продукты,Молочные продукты,Кефир - рейтинг,Кефир BioMax 1%,81,95,75,82,72,https://roscontrol.com/product/kefir-biomax-1/
+81,Продукты,Молочные продукты,Кефир - рейтинг,"Биокефир ""Вкуснотеево"" 1%",75,95,80,74,51,https://roscontrol.com/product/produkt-kislomolochniy-vkusnoteevo-1/
+82,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Простоквашино"" 1%",77,95,80,66,67,https://roscontrol.com/product/kefir-prostokvashino-1/
+83,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Домик в деревне"" 1%",79,95,75,74,72,https://roscontrol.com/product/kefir-domik-v-derevne-1/
+84,Продукты,Молочные продукты,Кефир - рейтинг,"""Сарафаново"" 2,5",75,94,75,67,64,https://roscontrol.com/product/sarafanovo-25/
+85,Продукты,Молочные продукты,Кефир - рейтинг,"""Большая кружка"" 2,5%",72,97,75,69,45,https://roscontrol.com/product/bolshaya-krugka-25/
+86,Продукты,Молочные продукты,Кефир - рейтинг,"""Свежее завтра"" 2,5%",71,96,75,70,42,https://roscontrol.com/product/svegee-zavtra-25/
+87,Продукты,Молочные продукты,Кефир - рейтинг,"""Рузский"" 2,5%",75,97,80,69,52,https://roscontrol.com/product/ruzskiy-25/
+88,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Рузский"" 3,2-4%",53,91,0,70,52,https://roscontrol.com/product/kefir-ruzskiy-32-4/
+89,Продукты,Молочные продукты,Кефир - рейтинг,"Кефир ""Милава""",74,99,85,71,42,https://roscontrol.com/product/kefir-milava/
+90,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Брест-Литовск"" 9%",73,88,70,61,74,https://roscontrol.com/product/tvorog-brest-litovsk-9-1/
+91,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Савушкин продукт"" ""Мягкий нежный"" 5%",60,74,70,65,30,https://roscontrol.com/product/tvorog-savushkin-produkt-myagkiy-negniy-5/
+92,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Останкинское"" 0,1%",60,75,65,44,56,https://roscontrol.com/product/ostankinskiy-0/
+93,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Домик в деревне"" 0,2%",76,83,65,61,96,https://roscontrol.com/product/domik-v-derevne-02/
+94,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Чистая линия"" 9%",79,76,75,67,97,https://roscontrol.com/product/chistaya-liniya-9/
+95,Продукты,Молочные продукты,Творог - рейтинг,Творог President 9%,77,75,65,74,92,https://roscontrol.com/product/president-9/
+96,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Вкуснотеево"" 9%",76,75,65,66,98,https://roscontrol.com/product/vkusnotieievo_9/
+97,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Искренне Ваш"" 9%",65,78,80,50,51,https://roscontrol.com/product/iskrenne-vash-9/
+98,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Домик в деревне"" 9%",57,91,70,41,26,https://roscontrol.com/product/domik-v-derevne-9/
+99,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Му-у"" 9%",54,82,75,38,20,https://roscontrol.com/product/tvorog-mu-u-9/
+100,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Балтком"" 9%",60,68,75,49,46,https://roscontrol.com/product/tvorog-baltkom-9/
+101,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Маруся"" 9%",72,82,95,59,50,https://roscontrol.com/product/marusya-9/
+102,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""ДмитроГорский продукт"" 9%",66,75,90,37,61,https://roscontrol.com/product/dmitrogorskiy-9/
+103,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Савушкин хуторок"" 1%",72,82,65,63,76,https://roscontrol.com/product/tvorog-savushkin-hutorok-1/
+104,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Простоквашино"" 0,1%",53,88,60,29,34,https://roscontrol.com/product/prostokvashino-0/
+105,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Избенка"" 9%",-1,0,0,0,0,https://roscontrol.com/product/izbenka-9/
+106,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Дмитровский молочный завод"" 9%",-1,0,0,0,0,https://roscontrol.com/product/dmitrovskiy-molochniy-zavod-9/
+107,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Ростагроэкспорт"" 9%",-1,0,0,0,0,https://roscontrol.com/product/tvorog-rostagroeksport-9/
+108,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Брест-Литовск"" 9%",73,88,70,61,74,https://roscontrol.com/product/tvorog-brest-litovsk-9-1/
+109,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Савушкин продукт"" ""Мягкий нежный"" 5%",60,74,70,65,30,https://roscontrol.com/product/tvorog-savushkin-produkt-myagkiy-negniy-5/
+110,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Останкинское"" 0,1%",60,75,65,44,56,https://roscontrol.com/product/ostankinskiy-0/
+111,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Домик в деревне"" 0,2%",76,83,65,61,96,https://roscontrol.com/product/domik-v-derevne-02/
+112,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Чистая линия"" 9%",79,76,75,67,97,https://roscontrol.com/product/chistaya-liniya-9/
+113,Продукты,Молочные продукты,Творог - рейтинг,Творог President 9%,77,75,65,74,92,https://roscontrol.com/product/president-9/
+114,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Вкуснотеево"" 9%",76,75,65,66,98,https://roscontrol.com/product/vkusnotieievo_9/
+115,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Искренне Ваш"" 9%",65,78,80,50,51,https://roscontrol.com/product/iskrenne-vash-9/
+116,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Домик в деревне"" 9%",57,91,70,41,26,https://roscontrol.com/product/domik-v-derevne-9/
+117,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Му-у"" 9%",54,82,75,38,20,https://roscontrol.com/product/tvorog-mu-u-9/
+118,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Балтком"" 9%",60,68,75,49,46,https://roscontrol.com/product/tvorog-baltkom-9/
+119,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Маруся"" 9%",72,82,95,59,50,https://roscontrol.com/product/marusya-9/
+120,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""ДмитроГорский продукт"" 9%",66,75,90,37,61,https://roscontrol.com/product/dmitrogorskiy-9/
+121,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Савушкин хуторок"" 1%",72,82,65,63,76,https://roscontrol.com/product/tvorog-savushkin-hutorok-1/
+122,Продукты,Молочные продукты,Творог - рейтинг,"Творог ""Простоквашино"" 0,1%",53,88,60,29,34,https://roscontrol.com/product/prostokvashino-0/
+123,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Избенка"" 9%",-1,0,0,0,0,https://roscontrol.com/product/izbenka-9/
+124,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Дмитровский молочный завод"" 9%",-1,0,0,0,0,https://roscontrol.com/product/dmitrovskiy-molochniy-zavod-9/
+125,Продукты,Молочные продукты,Творог - рейтинг,"Творог Творог ""Ростагроэкспорт"" 9%",-1,0,0,0,0,https://roscontrol.com/product/tvorog-rostagroeksport-9/
+126,Продукты,Молочные продукты,Сметана - рейтинг,"""Сарафаново"" 20%",66,91,60,36,76,https://roscontrol.com/product/sarafanovo-20/
+127,Продукты,Молочные продукты,Сметана - рейтинг,"""Брест-Литовск"" 20%",63,94,55,36,67,https://roscontrol.com/product/brest-litovsk-20/
+128,Продукты,Молочные продукты,Сметана - рейтинг,"""Ростагроэкспорт"" 20%",60,91,60,34,54,https://roscontrol.com/product/rostagroeksport-20/
+129,Продукты,Молочные продукты,Сметана - рейтинг,"""Простоквашино"" 20%",65,88,55,38,79,https://roscontrol.com/product/prostokvashino-20/
+130,Продукты,Молочные продукты,Сметана - рейтинг,"""Избенка"" 20%",69,91,70,35,79,https://roscontrol.com/product/izbenka-20/
+131,Продукты,Молочные продукты,Сметана - рейтинг,"""Свитлогорье"" 15%",65,83,60,38,80,https://roscontrol.com/product/svitlogore-15/
+132,Продукты,Молочные продукты,Сметана - рейтинг,"""Ростагроэкспорт"" 15%",66,91,70,38,63,https://roscontrol.com/product/smetana-rostagroeksport-15/
+133,Продукты,Молочные продукты,Сметана - рейтинг,"""Простоквашино"" 15%",66,88,55,37,82,https://roscontrol.com/product/smetana-prostokvashino-15/
+134,Продукты,Молочные продукты,Сметана - рейтинг,"""Сарафаново"" 15%",66,84,55,38,85,https://roscontrol.com/product/sarafanovo-15/
+135,Продукты,Молочные продукты,Сметана - рейтинг,"Сметана ""Вологодская из Вологды"" 25%",65,91,65,50,54,https://roscontrol.com/product/smetana-vologodskaya-iz-vologdi-25/
+136,Продукты,Молочные продукты,Сметана - рейтинг,"Сметана ""Козельская"" 25%",72,91,75,51,70,https://roscontrol.com/product/smetana-kozelskaya-25/
+137,Продукты,Молочные продукты,Сметана - рейтинг,"Сметана ""Простоквашино"" 25%",67,88,65,49,64,https://roscontrol.com/product/smetana-prostokvashino-25/
+138,Продукты,Молочные продукты,Сметана - рейтинг,"Сметана ""Домик в деревне"" 25%",73,85,70,50,86,https://roscontrol.com/product/smetana-domik-v-derevne-25/
+139,Продукты,Молочные продукты,Сметана - рейтинг,"""Бежин луг"" 20%",72,97,80,46,66,https://roscontrol.com/product/begin-lug-20/
+140,Продукты,Молочные продукты,Сметана - рейтинг,"""Благода"" 20%",74,97,75,52,71,https://roscontrol.com/product/blagoda-20/
+141,Продукты,Молочные продукты,Сметана - рейтинг,"""Домик в деревне"" 20%",74,97,80,53,65,https://roscontrol.com/product/domik-v-derevne-1/
+142,Продукты,Молочные продукты,Сметана - рейтинг,"""Каждый день"" 20%",73,94,85,52,60,https://roscontrol.com/product/smietana-kazhdyi-dien-15/
+143,Продукты,Молочные продукты,Сметана - рейтинг,"""Брест-Литовск"" 15%",74,85,75,52,82,https://roscontrol.com/product/smetana-brest-litovsk-15/
+144,Продукты,Молочные продукты,Сметана - рейтинг,"""Сарафаново"" 20%",66,91,60,36,76,https://roscontrol.com/product/sarafanovo-20/
+145,Продукты,Молочные продукты,Сметана - рейтинг,"""Брест-Литовск"" 20%",63,94,55,36,67,https://roscontrol.com/product/brest-litovsk-20/
+146,Продукты,Молочные продукты,Сметана - рейтинг,"""Ростагроэкспорт"" 20%",60,91,60,34,54,https://roscontrol.com/product/rostagroeksport-20/
+147,Продукты,Молочные продукты,Сметана - рейтинг,"""Простоквашино"" 20%",65,88,55,38,79,https://roscontrol.com/product/prostokvashino-20/
+148,Продукты,Молочные продукты,Сметана - рейтинг,"""Избенка"" 20%",69,91,70,35,79,https://roscontrol.com/product/izbenka-20/
+149,Продукты,Молочные продукты,Сметана - рейтинг,"""Свитлогорье"" 15%",65,83,60,38,80,https://roscontrol.com/product/svitlogore-15/
+150,Продукты,Молочные продукты,Сметана - рейтинг,"""Ростагроэкспорт"" 15%",66,91,70,38,63,https://roscontrol.com/product/smetana-rostagroeksport-15/
+151,Продукты,Молочные продукты,Сметана - рейтинг,"""Простоквашино"" 15%",66,88,55,37,82,https://roscontrol.com/product/smetana-prostokvashino-15/
+152,Продукты,Молочные продукты,Сметана - рейтинг,"""Сарафаново"" 15%",66,84,55,38,85,https://roscontrol.com/product/sarafanovo-15/
+153,Продукты,Молочные продукты,Сметана - рейтинг,"Сметана ""Вологодская из Вологды"" 25%",65,91,65,50,54,https://roscontrol.com/product/smetana-vologodskaya-iz-vologdi-25/
+154,Продукты,Молочные продукты,Сметана - рейтинг,"Сметана ""Козельская"" 25%",72,91,75,51,70,https://roscontrol.com/product/smetana-kozelskaya-25/
+155,Продукты,Молочные продукты,Сметана - рейтинг,"Сметана ""Простоквашино"" 25%",67,88,65,49,64,https://roscontrol.com/product/smetana-prostokvashino-25/
+156,Продукты,Молочные продукты,Сметана - рейтинг,"Сметана ""Домик в деревне"" 25%",73,85,70,50,86,https://roscontrol.com/product/smetana-domik-v-derevne-25/
+157,Продукты,Молочные продукты,Сметана - рейтинг,"""Бежин луг"" 20%",72,97,80,46,66,https://roscontrol.com/product/begin-lug-20/
+158,Продукты,Молочные продукты,Сметана - рейтинг,"""Благода"" 20%",74,97,75,52,71,https://roscontrol.com/product/blagoda-20/
+159,Продукты,Молочные продукты,Сметана - рейтинг,"""Домик в деревне"" 20%",74,97,80,53,65,https://roscontrol.com/product/domik-v-derevne-1/
+160,Продукты,Молочные продукты,Сметана - рейтинг,"""Каждый день"" 20%",73,94,85,52,60,https://roscontrol.com/product/smietana-kazhdyi-dien-15/
+161,Продукты,Молочные продукты,Сметана - рейтинг,"""Брест-Литовск"" 15%",74,85,75,52,82,https://roscontrol.com/product/smetana-brest-litovsk-15/
+162,Продукты,Молочные продукты,Сметана - рейтинг,"""Домик в деревне"" 15%",75,80,80,53,86,https://roscontrol.com/product/smetana-domik-v-derevne-15/
+163,Продукты,Молочные продукты,Сметана - рейтинг,"""Останкинское"" 20%",68,75,73,52,73,https://roscontrol.com/product/ostankinskaya-20/
+164,Продукты,Молочные продукты,Сметана - рейтинг,"""Асеньевская ферма"" 15%",59,91,65,37,41,https://roscontrol.com/product/asenevskaya-ferma-15/
+165,Продукты,Молочные продукты,Сметана - рейтинг,"""Благода"" 15%",57,87,55,39,48,https://roscontrol.com/product/smetana-blagoda-15/
+166,Продукты,Молочные продукты,Сметана - рейтинг,"Сметана ""Николаевская ферма"" 25%",60,91,75,44,31,https://roscontrol.com/product/smetana-nikolaevskaya-ferma-25/
+167,Продукты,Молочные продукты,Сметана - рейтинг,"Сметана ""Рузская"" 25%",61,85,65,52,41,https://roscontrol.com/product/smetana-ruzskaya-25/
+168,Продукты,Молочные продукты,Сметана - рейтинг,"""Киржачский молочный завод"" 20%",68,97,80,52,42,https://roscontrol.com/product/kirgachskiy-molochniy-zavod-20/
+169,Продукты,Молочные продукты,Сметана - рейтинг,"""Углече поле"" 15%",72,97,80,52,57,https://roscontrol.com/product/ugleche-pole-15/
+170,Продукты,Молочные продукты,Сметана - рейтинг,"""Из молока нашей дойки"" 20%",-1,0,0,0,0,https://roscontrol.com/product/iz-moloka-nashey-doyki-20/
+171,Продукты,Молочные продукты,Сметана - рейтинг,"Сметана ""Избёнка"" 25%",-1,0,0,0,0,https://roscontrol.com/product/smetana-izbnka-25/
+172,Продукты,Молочные продукты,Сметана - рейтинг,"""Вкуснотеево"" 20%",-1,0,0,0,0,https://roscontrol.com/product/vkusnoteevo-20/
+173,Продукты,Молочные продукты,Сметана - рейтинг,"""Милава"" 15%",-1,0,0,0,0,https://roscontrol.com/product/milava-15/
+174,Продукты,Молочные продукты,Сметана - рейтинг,President 15%,-1,0,0,0,0,https://roscontrol.com/product/president-15/
+175,Продукты,Молочные продукты,Сметана - рейтинг,"""Останкинское"" 15%",-1,0,0,0,0,https://roscontrol.com/product/ostankinskoe-15/
+176,Продукты,Молочные продукты,Сметана - рейтинг,"""36 копеек"" 20%",-1,0,0,0,0,https://roscontrol.com/product/smietana-36-kopieiek-20/
+177,Продукты,Молочные продукты,Сметана - рейтинг,"""Лакомо"" 20%",-1,0,0,0,0,https://roscontrol.com/product/lakomo-20/
+178,Продукты,Молочные продукты,Сметана - рейтинг,"""Милава"" 20%",-1,0,0,0,0,https://roscontrol.com/product/milava-20/
+179,Продукты,Молочные продукты,Сметана - рейтинг,"""Дмитровский молочный завод"" 20%",-1,0,0,0,0,https://roscontrol.com/product/dmitrovskiy-molochniy-zavod-20/
+180,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Масло сливочное ""Экомилк"" 82,5%",-1,86,43,80,85,https://roscontrol.com/product/maslo-slivochnoie-ekomilk-82-5/
+181,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Anchor 82%,69,86,43,65,80,https://roscontrol.com/product/slivochnoe-maslo-anchor-82-2/
+182,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Anchor 82%,69,86,43,65,80,https://roscontrol.com/product/slivochnoe-maslo-anchor-82-1/
+183,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Anchor 82%,69,86,43,65,80,https://roscontrol.com/product/slivochnoe-maslo-anchor-82/
+184,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Anchor 82%,69,86,43,65,80,https://roscontrol.com/product/anchor_82/
+185,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Брест-Литовск"" 82,5%",78,82,44,85,100,https://roscontrol.com/product/slivochnoie-maslo-briest-litovsk-82-5/
+186,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Радость вкуса"" ""Традиционное"" 82,5%, высший сорт",70,85,43,85,67,https://roscontrol.com/product/slivochnoe-maslo-radost-vkusa-traditsionnoe-825-visshiy-sort/
+187,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное вологодское масло ""Из Вологды"" 82,5%",65,81,41,65,74,https://roscontrol.com/product/iz-vologdi-825-vologodskoe/
+188,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Топленое масло ""Молградъ""",65,81,40,65,73,https://roscontrol.com/product/toplenoe-maslo-molgrad/
+189,Продукты,Молочные продукты,Сливочное масло - рейтинг,"""Вкуснотеево"" традиционное 82,5%",77,82,43,85,96,https://roscontrol.com/product/maslo-slivochnoie-vkusnotieievo-traditsionnoie-82-5/
+190,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Белорусское"" ""Традиционное"" 82,5%",71,86,42,80,74,https://roscontrol.com/product/slivochnoe-maslo-belorusskoe-traditsionnoe-825/
+191,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло Valuiki ""Традиционное"" 82,5%, высший сорт",68,88,43,85,57,https://roscontrol.com/product/slivochnoe-maslo-valuiki-traditsionnoe-825-visshiy-sort/
+192,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Милава"" 82,5%",74,88,44,85,77,https://roscontrol.com/product/slivochnoe-maslo-milava/
+193,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Радость вкуса"" Крестьянское 72,5%",70,69,44,100,65,https://roscontrol.com/product/radost-vkusa/
+194,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло Belorus Export высшего сорта  82,5%",66,73,43,95,54,https://roscontrol.com/product/export-belorus/
+195,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Лакомо"" Традиционное высшего сорта 82,5%",63,58,43,100,51,https://roscontrol.com/product/lakomo/
+196,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Lurpak 82%,69,69,43,80,82,https://roscontrol.com/product/lurpack_82/
+197,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Valio Традиционное  82%,65,63,43,80,73,https://roscontrol.com/product/valio_82/
+198,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Масло сливочное ""Экомилк"" 82,5%",-1,86,43,80,85,https://roscontrol.com/product/maslo-slivochnoie-ekomilk-82-5/
+199,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Anchor 82%,69,86,43,65,80,https://roscontrol.com/product/slivochnoe-maslo-anchor-82-2/
+200,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Anchor 82%,69,86,43,65,80,https://roscontrol.com/product/slivochnoe-maslo-anchor-82-1/
+201,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Anchor 82%,69,86,43,65,80,https://roscontrol.com/product/slivochnoe-maslo-anchor-82/
+202,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Anchor 82%,69,86,43,65,80,https://roscontrol.com/product/anchor_82/
+203,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Брест-Литовск"" 82,5%",78,82,44,85,100,https://roscontrol.com/product/slivochnoie-maslo-briest-litovsk-82-5/
+204,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Радость вкуса"" ""Традиционное"" 82,5%, высший сорт",70,85,43,85,67,https://roscontrol.com/product/slivochnoe-maslo-radost-vkusa-traditsionnoe-825-visshiy-sort/
+205,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное вологодское масло ""Из Вологды"" 82,5%",65,81,41,65,74,https://roscontrol.com/product/iz-vologdi-825-vologodskoe/
+206,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Топленое масло ""Молградъ""",65,81,40,65,73,https://roscontrol.com/product/toplenoe-maslo-molgrad/
+207,Продукты,Молочные продукты,Сливочное масло - рейтинг,"""Вкуснотеево"" традиционное 82,5%",77,82,43,85,96,https://roscontrol.com/product/maslo-slivochnoie-vkusnotieievo-traditsionnoie-82-5/
+208,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Белорусское"" ""Традиционное"" 82,5%",71,86,42,80,74,https://roscontrol.com/product/slivochnoe-maslo-belorusskoe-traditsionnoe-825/
+209,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло Valuiki ""Традиционное"" 82,5%, высший сорт",68,88,43,85,57,https://roscontrol.com/product/slivochnoe-maslo-valuiki-traditsionnoe-825-visshiy-sort/
+210,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Милава"" 82,5%",74,88,44,85,77,https://roscontrol.com/product/slivochnoe-maslo-milava/
+211,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Радость вкуса"" Крестьянское 72,5%",70,69,44,100,65,https://roscontrol.com/product/radost-vkusa/
+212,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло Belorus Export высшего сорта  82,5%",66,73,43,95,54,https://roscontrol.com/product/export-belorus/
+213,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Лакомо"" Традиционное высшего сорта 82,5%",63,58,43,100,51,https://roscontrol.com/product/lakomo/
+214,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Lurpak 82%,69,69,43,80,82,https://roscontrol.com/product/lurpack_82/
+215,Продукты,Молочные продукты,Сливочное масло - рейтинг,Сливочное масло Valio Традиционное  82%,65,63,43,80,73,https://roscontrol.com/product/valio_82/
+216,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Доярушка"" 82,5%",72,76,43,95,72,https://roscontrol.com/product/doyarushka_825/
+217,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Из Вологды"" ""Крестьянское""  72,5%, высший сорт",60,83,44,85,29,https://roscontrol.com/product/iz-vologdi-725-krestyanskoe/
+218,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Сыробогатов"" Традиционное 82,5%",0,0,0,0,0,https://roscontrol.com/product/sirobogatov-traditsionnoe-825/
+219,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Главмаслопром"", 82,5%",69,88,42,84,63,https://roscontrol.com/product/slivochnoe-maslo-glavmasloprom-825/
+220,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Залесский фермер"", 82,5%",66,83,42,85,52,https://roscontrol.com/product/slivochnoe-maslo-zalesskiy-fermer-825/
+221,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Искренне Ваш"" ""Традиционное"" 82,5%",58,79,41,70,41,https://roscontrol.com/product/slivochnoe-maslo-iskrenne-vash-traditsionnoe-825/
+222,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Топленое масло ""Починки""",59,79,40,75,43,https://roscontrol.com/product/toplenoe-maslo-pochinki/
+223,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Топленое масло ""Избёнка""",59,80,40,75,40,https://roscontrol.com/product/toplenoe-maslo-izbnka/
+224,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Топленое масло ""ВкусВилл""",61,80,40,75,48,https://roscontrol.com/product/toplenoe-maslo-vkusvill/
+225,Продукты,Молочные продукты,Сливочное масло - рейтинг,Топленое масло President,60,91,40,65,45,https://roscontrol.com/product/toplenoe-maslo-president/
+226,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Рузское"" Традиционное 82,5%",66,83,43,85,53,https://roscontrol.com/product/ruzskoe-825/
+227,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Останкинское"" ""Традиционное"" 82,5%",57,79,43,75,30,https://roscontrol.com/product/slivochnoe-maslo-ostankinskoe-traditsionnoe-825/
+228,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Простоквашино"" ""Традиционное"" 82%, высший сорт",69,88,43,85,58,https://roscontrol.com/product/slivochnoe-maslo-prostokvashino-traditsionnoe-82-visshiy-sort/
+229,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Масло сливочное ""Князь Вежич"" ""Традиционное"" 82.5%, высший сорт",67,88,43,85,52,https://roscontrol.com/product/maslo-slivochnoie-kniaz-viezhich-82-5-180gh/
+230,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Вологодское лето"" ""Традиционное"" 82,5%, высший сорт",70,88,43,85,65,https://roscontrol.com/product/slivochnoe-maslo-vologodskoe-leto-traditsionnoe-825-visshiy-sort/
+231,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Милье"" ""Традиционное"" 82,5%, высший сорт",69,89,43,85,57,https://roscontrol.com/product/slivochnoe-maslo-mile-traditsionnoe-825-visshiy-sort/
+232,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Му-у"" ""Традиционное"" 82,5%, высший сорт",70,88,43,85,62,https://roscontrol.com/product/slivochnoie-maslo-mu-u-traditsionnoie-82-5/
+233,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Романов луг"" ""Крестьянское"" 72,5%, высший сорт",63,60,44,85,62,https://roscontrol.com/product/slivochnoe-maslo-romanov-lug/
+234,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Простоквашино"" ""Крестьянское"" 72,5%, высший сорт",60,63,44,85,49,https://roscontrol.com/product/slivochnoe-maslo-prostokvashino-krestyanskoe-725-visshiy-sort/
+235,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Милава"" ""Крестьянское"" 72,5%, высший сорт",61,62,44,85,51,https://roscontrol.com/product/slivochnoe-maslo-milava-725-visshiy-sort/
+236,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Масло из России"", ""Традиционное 2"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-maslo-iz-rossii-traditsionnoe-2-825/
+237,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Баба Валя"", 82,0%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-baba-valya-820/
+238,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Молочный дом"", ""Крестьянское"", 72,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-molochniy-dom-krestyanskoe-725/
+239,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Молочный дом"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-molochniy-dom-825/
+240,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Курский молочный завод"", ""Вологодские традиции"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-kurskiy-molochniy-zavod-vologodskie-traditsii-825/
+241,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Масловита"", ""Традиционное"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-maslovita-traditsionnoe-2-825/
+242,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Крестьянское"", ООО ""Вита"" , 72,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-krestyanskoe-ooo-vita-725/
+243,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Росмол"" ""Золотое"" ""Традиционное"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-zolotoe-traditsionnoe-825/
+244,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Эридан"", ""Традиционное"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-eridan-traditsionnoe-2-825/
+245,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Инфо-сервис"", ""Крестьянское"", 72,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-info-servis-krestyanskoe-725/
+246,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""ИП Матвеева Т.М."", ""Традиционное"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-ip-matveeva-tm-traditsionnoe-825/
+247,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Росмол"", ""Золотое"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-rosmol-zolotoe-825/
+248,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Вита"", ""Традиционное"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-vita-traditsionnoe-825/
+249,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Росмол"", ""Белорусские традиции"", 72,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-rosmol-belorusskie-traditsii-725/
+250,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""СН-Продукт"", ""Традиционное"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-sn-produkt-traditsionnoe-825/
+251,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Меркурий"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-merkuriy-825/
+252,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Росмол"", ""Традиционное"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-rosmol-traditsionnoe-825/
+253,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Курский завод"", ""Традиционное"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-kurskiy-zavod-traditsionnoe-825/
+254,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Курский завод"", ""Белорусские традиции"", 72,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-kurskiy-zavod-belorusskie-traditsii-825/
+255,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Дубровское / Молочные продукты из Дубровки"", ""Традиционное"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-dubrovskoe-molochnie-produkti-iz-dubrovki-traditsionnoe-825/
+256,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Лав Продукт"", 82,5%",-1,0,0,0,0,https://roscontrol.com/product/maslo-traditsionnoe-sladko-slivochnoe-nesolenoe-lav-produkt/
+257,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Молочные узоры"" ""Традиционное"" 82,5%, высший сорт",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-molochnie-uzori-traditsionnoe-825-visshiy-sort/
+258,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Балтком"" ""Традиционное"" 82,5%, высший сорт",-1,0,0,0,0,https://roscontrol.com/product/baltkom-1/
+259,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Выбор хозяйки"" ""Традиционное"" 82,5%, высший сорт",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-vibor-hozyayki-traditsionnoe-825-visshiy-sort/
+260,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Крестьянские Узоры"" ""Традиционное"" 82,5%, первый сорт",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-krestyanskie-uzori-traditsionnoe-825-perviy-sort/
+261,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Ровеньки"" ""Традиционное"" 82,5%, высший сорт",-1,0,0,0,0,https://roscontrol.com/product/roven-ki-1/
+262,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Сернурский сырзавод"" ""Традиционное"" 82,5%, высший сорт",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-sernurskiy-sirzavod-traditsionnoe-825-visshiy-sort/
+263,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Киржачский молочный завод"" ""Традиционное"" 82,5%, высший сорт",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-kirgachskiy-molochniy-zavod-traditsionnoe-825-visshiy-sort/
+264,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Число Му"" ""Традиционное"" 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-chislo-mu-traditsionnoe-825/
+265,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Кубанский молочник"" ""Традиционное"" 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-kubanskiy-molochnik-traditsionnoe-825/
+266,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""То самое масло"" ""Традиционное"" 82,5%",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-to-samoe-maslo-traditsionnoe-825/
+267,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Ока-Река"" Крестьянское 72,5%",-1,0,0,0,0,https://roscontrol.com/product/oka-reka/
+268,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Староминское"" Традиционное 82,5%",-1,0,0,0,0,https://roscontrol.com/product/starominskoe/
+269,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Ростагроэкспорт"" Традиционное 82,5%",-1,0,0,0,0,https://roscontrol.com/product/rostagroeksport-1/
+270,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Домик в деревне"" 72,5%",-1,0,0,0,0,https://roscontrol.com/product/domik-v-derevne-2/
+271,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Молзавод Асекеевский"" 82,5%",-1,0,0,0,0,https://roscontrol.com/product/molzavod-asekeevskiy/
+272,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Мытищинское"" Крестьянское 72,5%",-1,0,0,0,0,https://roscontrol.com/product/mitishchinskoe/
+273,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Алтико"" Традиционное 82,5%",-1,0,0,0,0,https://roscontrol.com/product/altiko/
+274,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""МЛМ"" Традиционное 82,5%",-1,0,0,0,0,https://roscontrol.com/product/mlm/
+275,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Продукт Есенинского края"" Традиционное 82,5%",-1,0,0,0,0,https://roscontrol.com/product/produkt-eseninskogo-kraya/
+276,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Молочная ферма"" Крестьянское 72,5%",-1,0,0,0,0,https://roscontrol.com/product/molochnaya-ferma/
+277,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Воронежросагро"" Крестьянское 72,5%",-1,0,0,0,0,https://roscontrol.com/product/voronegrosagro/
+278,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Молмасло"" Крестьянское 72,5%",-1,0,0,0,0,https://roscontrol.com/product/molmaslo/
+279,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Курское молоко"" Крестьянское 72,5%",-1,0,0,0,0,https://roscontrol.com/product/kurskoe-moloko/
+280,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""От фермера"" 72,5%",-1,0,0,0,0,https://roscontrol.com/product/ot-fermera/
+281,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Лав продукт"" Традиционное 82,5%",-1,0,0,0,0,https://roscontrol.com/product/lav-produkt-1/
+282,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Красная цена"" Крестьянское 72,5%",-1,0,0,0,0,https://roscontrol.com/product/krasnaya-tsena-2/
+283,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Новая деревня"" 82,5%",-1,0,0,0,0,https://roscontrol.com/product/novaya-derevnya-1/
+284,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Дмитровский молочный завод"" Традиционное 82,5%",-1,0,0,0,0,https://roscontrol.com/product/dmitrovskiy_molochniy_zavod_825/
+285,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Посейдон Сервис"" ""Традиционное"" 82,5%, высший сорт",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-poseydon-servis-traditsionnoe-825-visshiy-sort/
+286,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""Молоко плюс"" ""Традиционное"" 82,5%, высший сорт",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-moloko-plyus-traditsionnoe-825-visshiy-sort/
+287,Продукты,Молочные продукты,Сливочное масло - рейтинг,"Сливочное масло ""ЛАВ продукт"" ""Традиционное"" 82,5%, высший сорт",-1,0,0,0,0,https://roscontrol.com/product/slivochnoe-maslo-lav-produkt-traditsionnoe-825-visshiy-sort/
+288,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Радость вкуса"" ""Львиное сердце"", 45%",-1,81,78,48,37,https://roscontrol.com/product/sir-radost-vkusa-lvinoe-serdtse-45/
+289,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Радость вкуса"" ""Топленое молочко"", 45%",-1,81,78,44,48,https://roscontrol.com/product/sir-radost-vkusa-toplenoe-molochko-45/
+290,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Адыгейский молзавод"" Адыгейский",75,85,80,65,70,https://roscontrol.com/product/sir-adigeyskiy-molzavod-adigeyskiy/
+291,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Красногвардейский Молочный Завод"" Адыгейский",75,83,75,59,83,https://roscontrol.com/product/sir-krasnogvardeyskiy-molochniy-zavod-adigeyskiy/
+292,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Свежий ряд"" Адыгейский",73,84,75,59,74,https://roscontrol.com/product/sir-svegiy-ryad-adigeyskiy/
+293,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Тысяча озёр"" легкий",54,73,60,33,50,https://roscontrol.com/product/sir-tisyacha-ozr-legkiy/
+294,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Ровеньки"" легкий",56,74,60,39,49,https://roscontrol.com/product/sir-rovenki-legkiy/
+295,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Сваля"" легкий",56,76,55,38,56,https://roscontrol.com/product/sir-svalya-legkiy/
+296,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Аланталь"" легкий",56,64,55,38,68,https://roscontrol.com/product/sir-alantal-legkiy/
+297,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Брест-Литовск"" легкий",59,78,55,42,59,https://roscontrol.com/product/sir-brest-litovsk-legkiy/
+298,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""365 дней"" ""Российский""",53,75,55,26,56,https://roscontrol.com/product/sir-365-dney-rossiyskiy/
+299,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""ПростоСыр"" Российский",54,79,55,22,61,https://roscontrol.com/product/prostosir-rossiyskiy/
+300,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Радость вкуса"" ""Российский классический""",56,70,60,27,68,https://roscontrol.com/product/sir-radost-vkusa-rossiyskiy/
+301,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Луговая свежесть"" ""Российский""",58,78,55,27,73,https://roscontrol.com/product/sir-lugovaya-svegest-rossiyskiy-50/
+302,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Киприно"" ""Российский""",56,76,55,23,69,https://roscontrol.com/product/sir-kiprino-rossiyskiy-50/
+303,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр Valio ""Российский""",55,76,55,26,64,https://roscontrol.com/product/sir-valio-rossiyskiy-50/
+304,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Белебеевский"" ""Российский"", 50%",57,78,60,24,67,https://roscontrol.com/product/belebeevskiy-rossiyskiy/
+305,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Moncasa gourmet пармезан,55,77,55,18,68,https://roscontrol.com/product/sir-moncasa-gourmet-parmezan/
+306,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Радость вкуса"" ""Львиное сердце"", 45%",-1,81,78,48,37,https://roscontrol.com/product/sir-radost-vkusa-lvinoe-serdtse-45/
+307,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Радость вкуса"" ""Топленое молочко"", 45%",-1,81,78,44,48,https://roscontrol.com/product/sir-radost-vkusa-toplenoe-molochko-45/
+308,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Адыгейский молзавод"" Адыгейский",75,85,80,65,70,https://roscontrol.com/product/sir-adigeyskiy-molzavod-adigeyskiy/
+309,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Красногвардейский Молочный Завод"" Адыгейский",75,83,75,59,83,https://roscontrol.com/product/sir-krasnogvardeyskiy-molochniy-zavod-adigeyskiy/
+310,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Свежий ряд"" Адыгейский",73,84,75,59,74,https://roscontrol.com/product/sir-svegiy-ryad-adigeyskiy/
+311,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Тысяча озёр"" легкий",54,73,60,33,50,https://roscontrol.com/product/sir-tisyacha-ozr-legkiy/
+312,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Ровеньки"" легкий",56,74,60,39,49,https://roscontrol.com/product/sir-rovenki-legkiy/
+313,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Сваля"" легкий",56,76,55,38,56,https://roscontrol.com/product/sir-svalya-legkiy/
+314,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Аланталь"" легкий",56,64,55,38,68,https://roscontrol.com/product/sir-alantal-legkiy/
+315,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Брест-Литовск"" легкий",59,78,55,42,59,https://roscontrol.com/product/sir-brest-litovsk-legkiy/
+316,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""365 дней"" ""Российский""",53,75,55,26,56,https://roscontrol.com/product/sir-365-dney-rossiyskiy/
+317,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""ПростоСыр"" Российский",54,79,55,22,61,https://roscontrol.com/product/prostosir-rossiyskiy/
+318,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Радость вкуса"" ""Российский классический""",56,70,60,27,68,https://roscontrol.com/product/sir-radost-vkusa-rossiyskiy/
+319,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Луговая свежесть"" ""Российский""",58,78,55,27,73,https://roscontrol.com/product/sir-lugovaya-svegest-rossiyskiy-50/
+320,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Киприно"" ""Российский""",56,76,55,23,69,https://roscontrol.com/product/sir-kiprino-rossiyskiy-50/
+321,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр Valio ""Российский""",55,76,55,26,64,https://roscontrol.com/product/sir-valio-rossiyskiy-50/
+322,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Белебеевский"" ""Российский"", 50%",57,78,60,24,67,https://roscontrol.com/product/belebeevskiy-rossiyskiy/
+323,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Moncasa gourmet пармезан,55,77,55,18,68,https://roscontrol.com/product/sir-moncasa-gourmet-parmezan/
+324,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Сыробогатов"" пармезан",56,71,55,26,71,https://roscontrol.com/product/sir-sirobogatov-parmezan/
+325,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр Cheese Gallery ""R"" пармезан",56,76,55,16,76,https://roscontrol.com/product/sir-cheese-gallery-r-parmezan/
+326,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Dolce Granto пармезан,55,71,55,23,70,https://roscontrol.com/product/sir-dolce-granto-parmezan/
+327,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр  Kalleh пармезан,56,76,55,24,70,https://roscontrol.com/product/sir-kalleh-parmezan/
+328,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Laime пармезан,56,76,55,24,69,https://roscontrol.com/product/sir-laime-parmezan/
+329,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Valio Голландский,58,80,75,31,47,https://roscontrol.com/product/sir-valio-gollandskiy-1/
+330,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Каждый день"" Голландский",51,75,65,16,47,https://roscontrol.com/product/sir-kagdiy-den-gollandskiy/
+331,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Сыробогатов"" Голландский",60,84,70,38,46,https://roscontrol.com/product/sir-sirobogatov-gollandskiy/
+332,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Красная цена"" Голландский",65,83,75,31,71,https://roscontrol.com/product/sir-krasnaya-tsena-gollandskiy/
+333,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""МАГНИТ / Брасовские сыры"" Маасдам",59,61,60,41,72,https://roscontrol.com/product/sir-magnit-brasovskie-siri-maasdam/
+334,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Cheezzi Маасдам,60,73,65,39,64,https://roscontrol.com/product/sir-cheezzi-maasdam/
+335,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Золото Европы"" Маасдам",54,68,50,42,55,https://roscontrol.com/product/sir-zoloto-evropi-maasdam-1/
+336,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Лакомо"" Маасдам",57,79,65,32,52,https://roscontrol.com/product/sir-lakomo-maasdam-1/
+337,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Laime Маасдам,57,68,55,40,63,https://roscontrol.com/product/sir-laime-maasdam/
+338,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""ВкусВилл"" Пошехонский",61,84,75,35,51,https://roscontrol.com/product/sir-vkusvill-poshehonskiy/
+339,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Первым делом"" Пошехонский",57,81,55,29,61,https://roscontrol.com/product/sir-pervim-delom-poshehonskiy/
+340,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Каждый день"" Пошехонский",51,74,55,29,47,https://roscontrol.com/product/sir-kagdiy-den-poshehonskiy/
+341,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Сыробогатов"" Пошехонский",56,71,60,32,60,https://roscontrol.com/product/sir-sirobogatov-poshehonskiy/
+342,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Магнит"" Пошехонский",55,79,60,30,49,https://roscontrol.com/product/sir-magnit-poshehonskiy/
+343,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр LiebenDorf Маасдам,67,67,60,57,83,https://roscontrol.com/product/sir-liebendorf-maasdam/
+344,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Золото Европы"" Маасдам",67,64,65,56,84,https://roscontrol.com/product/sir-zoloto-evropi-maasdam/
+345,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Лакомо"" Маасдам",67,60,65,42,99,https://roscontrol.com/product/sir-lakomo-maasdam/
+346,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Сыробогатов"" Гауда",54,52,60,36,68,https://roscontrol.com/product/sir-sirobogatov-gauda/
+347,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Schonfeld Гауда,53,59,65,29,59,https://roscontrol.com/product/sir-schonfeld-gauda/
+348,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Золото Европы"" Гауда",59,59,65,33,78,https://roscontrol.com/product/sir-zoloto-evropi-gauda/
+349,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Mont Blu с голубой плесенью,62,67,75,29,77,https://roscontrol.com/product/sir-mont-blu-s-goluboy-plesenyu/
+350,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Schonfeld с голубой плесенью,53,57,65,29,62,https://roscontrol.com/product/sir-schonfeld-s-goluboy-plesenyu/
+351,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр GrandBlu с голубой плесенью,59,64,75,29,67,https://roscontrol.com/product/sir-grandblu-s-goluboy-plesenyu/
+352,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Champignon Dorblu с голубой плесенью,65,64,85,28,83,https://roscontrol.com/product/sir-champignon-dorblu-s-goluboy-plesenyu/
+353,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""О'Кей"" ""Российский"", 50%",51,72,55,31,44,https://roscontrol.com/product/sir-okey-rossiyskiy-50/
+354,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Радость вкуса"" ""Львиное сердце"" 50%",61,81,78,48,37,https://roscontrol.com/product/sir-lvinoe-serdtse-massova-dolya-gira-v-pereschete-na-suhoe-veshchestvo-50/
+355,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр Bonfesto ""Моцарелла""",70,92,60,58,70,https://roscontrol.com/product/sir-bonfesto-motsarella/
+356,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Ростагроэкспорт"" ""Российский, 50%",53,72,60,28,53,https://roscontrol.com/product/sir-rostagroeksport-rossiyskiy-50/
+357,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Избенка"" Адыгейский",63,80,90,48,33,https://roscontrol.com/product/sir-adigeyskiy-myagkiy/
+358,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Карлов двор"" Гауда 45%",63,75,90,50,36,https://roscontrol.com/product/sir-gauda-massovaya-dolya-gira-v-pereschete-na-suhoe-veshchestvo-45-2/
+359,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Город Сыра"" Голландский 48%",62,80,90,48,30,https://roscontrol.com/product/sir-gollandskiy-gorod-sira-v-narezke-massovaya-dolya-gira-v-suhom-veshchestve-48/
+360,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Laime Тильзитер 50%,68,95,80,48,50,https://roscontrol.com/product/sir-tilziter-lomtiki-massovaya-dolya-gira-v-suhom-veshchestve-50/
+361,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Arla Natura сливочный 45%,64,86,70,48,51,https://roscontrol.com/product/arla-natura/
+362,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Epiim Эстонский 45%,58,60,65,50,56,https://roscontrol.com/product/epiim-estonskiy/
+363,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Савушкин продукт"" Голландский 45%",45,50,55,46,27,https://roscontrol.com/product/savushkin-produkt-gollandskiy/
+364,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Mlekpol Российский 45%,53,50,60,51,52,https://roscontrol.com/product/mlekpol-rossiyskiy/
+365,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Красная цена"" Российский 50%",53,50,70,45,45,https://roscontrol.com/product/krasnaya-tsena-rossiyskiy/
+366,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Киприно"" Советский 50%",52,65,60,44,40,https://roscontrol.com/product/kiprino-sovetskiy/
+367,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Тысяча озер"" сливочный 50%",46,70,80,6,28,https://roscontrol.com/product/tisyacha-ozer-slivochniy/
+368,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Сваля"" 45%",48,45,55,49,44,https://roscontrol.com/product/svalya/
+369,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Гиагинские сыры"" Адыгейский",72,84,75,59,68,https://roscontrol.com/product/sir-giaginskie-siri-adigeyskiy/
+370,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Fine Life легкий,52,70,50,47,41,https://roscontrol.com/product/sir-fine-life-legkiy/
+371,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Schonfeld Маасдам,53,62,65,38,47,https://roscontrol.com/product/sir-schonfeld-maasdam/
+372,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Ровеньки"" Пошехонский",45,73,50,25,30,https://roscontrol.com/product/sir-rovenki-poshehonskiy/
+373,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Fine life Маасдам,66,67,70,56,69,https://roscontrol.com/product/sir-fine-life-maasdam/
+374,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Liame Маасдам,56,55,60,41,66,https://roscontrol.com/product/sir-liame-maasdam-1/
+375,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Савушкин"" Гауда",44,58,45,35,36,https://roscontrol.com/product/sir-savushkin-gauda/
+376,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр BluDelice Original с голубой плесенью,51,67,75,28,32,https://roscontrol.com/product/sir-bludelice-original-s-goluboy-plesenyu/
+377,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Избёнка"" ""Российский"", 50%",51,80,70,30,24,https://roscontrol.com/product/sir-izbnka-rossiyskiy-50/
+378,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Город Сыра"" Российский, 45%",48,74,60,37,22,https://roscontrol.com/product/gorod-sira-rossiyskiy/
+379,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр Unagrande ""Моцарелла""",73,92,85,59,57,https://roscontrol.com/product/sir-unagrande-motsarella/
+380,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр Pretto ""Моцарелла""",70,92,85,58,45,https://roscontrol.com/product/sir-pretto-motsarella/
+381,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр Arla Apetina ""Моцарелла""",71,89,85,60,51,https://roscontrol.com/product/sir-arla-apetina-motsarella/
+382,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр Galbani ""Моцарелла""",66,90,70,56,48,https://roscontrol.com/product/sir-galbani-motsarella/
+383,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сырный продукт ""Фетакса"" 60%",0,0,0,0,0,https://roscontrol.com/product/fetaksa/
+384,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Предгорье Кавказа"" Адыгейский",-1,0,0,0,0,https://roscontrol.com/product/sir-predgore-kavkaza-adigeyskiy/
+385,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Первым делом"" Голландский",-1,0,0,0,0,https://roscontrol.com/product/sir-pervim-delom-gollandskiy/
+386,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""ВкусВилл / Избёнка"" Голландский",-1,0,0,0,0,https://roscontrol.com/product/sir-vkusvill-izbnka-gollandskiy/
+387,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Fine Life Гауда,-1,0,0,0,0,https://roscontrol.com/product/sir-fine-life-gauda/
+388,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Лакомо"" Гауда",-1,0,0,0,0,https://roscontrol.com/product/sir-lakomo-gauda/
+389,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Арча"" Эдам 45%",-1,0,0,0,0,https://roscontrol.com/product/sir-edam-massovaya-dolya-gira-v-suhom-veshchestve-45/
+390,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Народные сословия"" Гауда 45%",-1,0,0,0,0,https://roscontrol.com/product/sir-gauda-massovaya-dolya-gira-v-suhom-veshchestve-45/
+391,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Сырный рай"" Российский молодой 50%",-1,0,0,0,0,https://roscontrol.com/product/sir-rossiyskiy-massovaya-dolya-gira-v-pereschete-na-suhoe-veshchestvo-50/
+392,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Кошкинское"" Голландский 45%",-1,0,0,0,0,https://roscontrol.com/product/sir-golandskiy-massovaya-dolya-gira-v-pereschete-na-suhoe-veshchestvo-45/
+393,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Сыродел"" Российский 50%",-1,0,0,0,0,https://roscontrol.com/product/sir-rossiyski-massovaya-dolya-gira-v-pereschete-na-suhoe-veshchestvo-50/
+394,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Здравушка"" Российский молодой  50%",-1,0,0,0,0,https://roscontrol.com/product/sir-rossiyskiy-molodoy-massovoy-doley-v-suhom-veshchestve-50/
+395,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Valleverde Моцарелла 40%,-1,0,0,0,0,https://roscontrol.com/product/sir-motsarella-massovaya-dolya-gira-v-pereschete-na-suhoe-veshchestvo-40/
+396,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Столица молока"" Голландский 45%",-1,0,0,0,0,https://roscontrol.com/product/sir-gollandskiy-massovaya-dolya-gira-v-pereschete-na-suhoe-veshchestvo-45/
+397,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Ферма Босконе"" Российский  50%",-1,0,0,0,0,https://roscontrol.com/product/sir-rossiyskiy-sort-visshiy-massovaya-dolya-gira-v-suhom-veshchestve-50/
+398,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Fresh Адыгейский,-1,0,0,0,0,https://roscontrol.com/product/sir-adigeyskiy-massovaya-dolya-gira-v-suhom-veshchestve-45-1/
+399,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Сибирский гостинец"" Пошехонский  45%",-1,0,0,0,0,https://roscontrol.com/product/sir-poshehonskiy-massovaya-dolya-v-suhom-veshchestve-45/
+400,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Слуцкие сыры"" Пошехонский  45%",-1,0,0,0,0,https://roscontrol.com/product/sir-poshehonskiy-massovaya-dolya-gira-v-suhom-veshchestve-45/
+401,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Сырная долина"" Сметанковый 50%",-1,0,0,0,0,https://roscontrol.com/product/sir-smetankoviy-massovaya-dolya-gira-v-suhom-veshchestve-50/
+402,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Вектор"" Маасдам 45%",-1,0,0,0,0,https://roscontrol.com/product/sir-maasdam-massovaya-dolya-gira-v-pereschete-na-suhoe-veshchestvo-45/
+403,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Вектор"" Гауда 45%",-1,0,0,0,0,https://roscontrol.com/product/sir-gauda-massovaya-dolya-gira-v-pereschete-na-suhoe-veshchestvo-45-1/
+404,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Комбинированный рассольный продукт ""Сиртаки"" Original",-1,0,0,0,0,https://roscontrol.com/product/sirtaki-original/
+405,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сырный продукт Delissir ""Фета"" 55%",-1,0,0,0,0,https://roscontrol.com/product/delissir-feta/
+406,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр  Magerquark Bio творожный обезжиренный,-1,0,0,0,0,https://roscontrol.com/product/magerquark/
+407,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Grekos рассольный 45%,-1,0,0,0,0,https://roscontrol.com/product/grekos/
+408,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сырный продукт Denmax ""Сулугуни"" 40%",-1,0,0,0,0,https://roscontrol.com/product/suluguni/
+409,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр Uniekaas ""Ночной Дозор"" 48%",-1,0,0,0,0,https://roscontrol.com/product/nochnoy-dozor/
+410,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,"Сыр ""Дэнмакс"" Осетинский 40%",-1,0,0,0,0,https://roscontrol.com/product/osetinskiy/
+411,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Cыр Bonjour de France camembert с плесенью 50%,-1,0,0,0,0,https://roscontrol.com/product/bonjour-de-france-camambert/
+412,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Bonalpi 45%,-1,0,0,0,0,https://roscontrol.com/product/bonalpi/
+413,Продукты,Молочные продукты,Сыры и сырные продукты - рейтинг,Сыр Hollender 17%,-1,0,0,0,0,https://roscontrol.com/product/hollender-17/
+414,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Вкуснотеево"" с персиком",69,91,47,67,69,https://roscontrol.com/product/yogurt-vkusnoteevo-s-persikom/
+415,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""ФрутоНяня"" с персиком",71,92,57,78,56,https://roscontrol.com/product/yogurt-frutonyanya-s-persikom/
+416,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Агуша"" с персиком",83,95,57,93,88,https://roscontrol.com/product/yogurt-agusha-s-persikom/
+417,Продукты,Молочные продукты,Йогурты - рейтинг,"Биойогурт ""Слобода"" с персиком",73,94,53,80,63,https://roscontrol.com/product/bioyogurt-sloboda-1/
+418,Продукты,Молочные продукты,Йогурты - рейтинг,"""Савушкин"" ""Греческий Teos"" с наполнителем черника",77,87,85,75,60,https://roscontrol.com/product/savushkin-grecheskiy-teos-s-napolnitelem-chernika/
+419,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Савушкин продукт"" двухслойный с фруктовым наполнителем ""Киви-крыжовник""",54,59,20,72,66,https://roscontrol.com/product/yogurt-savushkin-produkt-dvuhsloyniy-s-fruktovim-napolnitelem-kivi-krigovnik/
+420,Продукты,Молочные продукты,Йогурты - рейтинг,Йогурт греческий Teos,77,87,85,75,60,https://roscontrol.com/product/yogurt-grecheskiy-teos/
+421,Продукты,Молочные продукты,Йогурты - рейтинг,Йогурт BIO баланс,64,96,33,73,54,https://roscontrol.com/product/yogurt-bio-balans/
+422,Продукты,Молочные продукты,Йогурты - рейтинг,"""Чудо"", ""Классический""",60,73,20,69,79,https://roscontrol.com/product/yogurt-chudo-klassicheskiy/
+423,Продукты,Молочные продукты,Йогурты - рейтинг,Йогурт Valio с персиком,71,75,42,88,78,https://roscontrol.com/product/yogurt-valio-s-persikom/
+424,Продукты,Молочные продукты,Йогурты - рейтинг,"Напиток кисломолочный ""Фругурт"" 1,5%",56,78,20,70,54,https://roscontrol.com/product/frugurt-1/
+425,Продукты,Молочные продукты,Йогурты - рейтинг,"Биойогурт ""Био Баланс"" 1,5%",62,90,15,69,72,https://roscontrol.com/product/biobalans/
+426,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Вкуснотеево"" 1,5%",65,95,28,68,67,https://roscontrol.com/product/vkusnoteevo-2/
+427,Продукты,Молочные продукты,Йогурты - рейтинг,"Биойогурт ""Эковакино"" с персиком",72,84,62,80,60,https://roscontrol.com/product/yogurt-ekovakino-s-persikom/
+428,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""МясновЪ / Ферма""",67,90,55,73,50,https://roscontrol.com/product/yogurt-myasnov-ferma/
+429,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Асеньевская ферма""",73,90,70,78,54,https://roscontrol.com/product/yogurt-asenevskaya-ferma/
+430,Продукты,Молочные продукты,Йогурты - рейтинг,Йогурт Valio,63,88,55,55,53,https://roscontrol.com/product/yogurt-valio/
+431,Продукты,Молочные продукты,Йогурты - рейтинг,Йогурт Landliebe,68,80,60,62,70,https://roscontrol.com/product/yogurt-landliebe/
+432,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Вкуснотеево"" с персиком",69,91,47,67,69,https://roscontrol.com/product/yogurt-vkusnoteevo-s-persikom/
+433,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""ФрутоНяня"" с персиком",71,92,57,78,56,https://roscontrol.com/product/yogurt-frutonyanya-s-persikom/
+434,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Агуша"" с персиком",83,95,57,93,88,https://roscontrol.com/product/yogurt-agusha-s-persikom/
+435,Продукты,Молочные продукты,Йогурты - рейтинг,"Биойогурт ""Слобода"" с персиком",73,94,53,80,63,https://roscontrol.com/product/bioyogurt-sloboda-1/
+436,Продукты,Молочные продукты,Йогурты - рейтинг,"""Савушкин"" ""Греческий Teos"" с наполнителем черника",77,87,85,75,60,https://roscontrol.com/product/savushkin-grecheskiy-teos-s-napolnitelem-chernika/
+437,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Савушкин продукт"" двухслойный с фруктовым наполнителем ""Киви-крыжовник""",54,59,20,72,66,https://roscontrol.com/product/yogurt-savushkin-produkt-dvuhsloyniy-s-fruktovim-napolnitelem-kivi-krigovnik/
+438,Продукты,Молочные продукты,Йогурты - рейтинг,Йогурт греческий Teos,77,87,85,75,60,https://roscontrol.com/product/yogurt-grecheskiy-teos/
+439,Продукты,Молочные продукты,Йогурты - рейтинг,Йогурт BIO баланс,64,96,33,73,54,https://roscontrol.com/product/yogurt-bio-balans/
+440,Продукты,Молочные продукты,Йогурты - рейтинг,"""Чудо"", ""Классический""",60,73,20,69,79,https://roscontrol.com/product/yogurt-chudo-klassicheskiy/
+441,Продукты,Молочные продукты,Йогурты - рейтинг,Йогурт Valio с персиком,71,75,42,88,78,https://roscontrol.com/product/yogurt-valio-s-persikom/
+442,Продукты,Молочные продукты,Йогурты - рейтинг,"Напиток кисломолочный ""Фругурт"" 1,5%",56,78,20,70,54,https://roscontrol.com/product/frugurt-1/
+443,Продукты,Молочные продукты,Йогурты - рейтинг,"Биойогурт ""Био Баланс"" 1,5%",62,90,15,69,72,https://roscontrol.com/product/biobalans/
+444,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Вкуснотеево"" 1,5%",65,95,28,68,67,https://roscontrol.com/product/vkusnoteevo-2/
+445,Продукты,Молочные продукты,Йогурты - рейтинг,"Биойогурт ""Эковакино"" с персиком",72,84,62,80,60,https://roscontrol.com/product/yogurt-ekovakino-s-persikom/
+446,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""МясновЪ / Ферма""",67,90,55,73,50,https://roscontrol.com/product/yogurt-myasnov-ferma/
+447,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Асеньевская ферма""",73,90,70,78,54,https://roscontrol.com/product/yogurt-asenevskaya-ferma/
+448,Продукты,Молочные продукты,Йогурты - рейтинг,Йогурт Valio,63,88,55,55,53,https://roscontrol.com/product/yogurt-valio/
+449,Продукты,Молочные продукты,Йогурты - рейтинг,Йогурт Landliebe,68,80,60,62,70,https://roscontrol.com/product/yogurt-landliebe/
+450,Продукты,Молочные продукты,Йогурты - рейтинг,"Биойогурт ""Слобода""",68,88,55,69,60,https://roscontrol.com/product/bioyogurt-sloboda/
+451,Продукты,Молочные продукты,Йогурты - рейтинг,"Биойогурт ""Активиа""",67,85,50,80,53,https://roscontrol.com/product/bioyogurt-aktivia/
+452,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Б.Ю. Александров"" клубничный",58,97,33,57,45,https://roscontrol.com/product/byu-aleksandrov/
+453,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Свежее Завтра""",73,97,37,89,69,https://roscontrol.com/product/yogurt-svegee-zavtra/
+454,Продукты,Молочные продукты,Йогурты - рейтинг,Йогурт Valio с клубникой,66,94,57,58,53,https://roscontrol.com/product/yogurt-valio-s-klubnikoy/
+455,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт Danone ""Активиа"" с клубникой и земляникой",74,97,37,100,63,https://roscontrol.com/product/yogurt-danone-aktivia-s-klubnikoy-i-zemlyanikoy/
+456,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Б.Ю. Александров"" черника",65,75,45,89,51,https://roscontrol.com/product/yogurt-byu-aleksandrov-chernika/
+457,Продукты,Молочные продукты,Йогурты - рейтинг,"""Активиа"" термостатная 3,5%",79,80,65,77,92,https://roscontrol.com/product/bioioghurt-aktivia-tiermostatnaia-3-5/
+458,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Останкинское"" Мечта"" 1%",60,93,28,63,54,https://roscontrol.com/product/ostankinskoe-1/
+459,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Асеньевская ферма"" с персиком",-1,0,0,0,0,https://roscontrol.com/product/yogurt-asenevskaya-ferma-s-persikom/
+460,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""ЭкоНива"" с персиком",-1,0,0,0,0,https://roscontrol.com/product/yogurt-ekoniva-s-persikom/
+461,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Рузский""",-1,0,0,0,0,https://roscontrol.com/product/yogurt-ruzskiy/
+462,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Подворье"" с клубникой",-1,0,0,0,0,https://roscontrol.com/product/yogurt-podvore-s-klubnikoy/
+463,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Сваля Organic"" 3,1%",-1,0,0,0,0,https://roscontrol.com/product/svalya-organic/
+464,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт ""Чудо"" 2,5%",-1,0,0,0,0,https://roscontrol.com/product/chudo/
+465,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт Danone 1,6%",-1,0,0,0,0,https://roscontrol.com/product/danone/
+466,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт BioMax 2,5%",-1,0,0,0,0,https://roscontrol.com/product/biomax/
+467,Продукты,Молочные продукты,Йогурты - рейтинг,"Йогурт Valio 2,6%",-1,0,0,0,0,https://roscontrol.com/product/valio/
+468,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Малиновый кактус"" пломбир с малиновым наполнителем в глазури",-1,88,9,22,100,https://roscontrol.com/product/eskimo-malinoviy-kaktus-plombir-s-malinovim-napolnitelem-v-glazuri/
+469,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Кактус"" пломбир с клубникой в глазури",-1,88,9,36,100,https://roscontrol.com/product/eskimo-kaktus-plombir-s-klubnikoy-v-glazuri/
+470,Продукты,Молочные продукты,Мороженое - рейтинг,"""Айсберри / Филевский стаканчик"" пломбир в вафельном стаканчике",-1,75,43,46,87,https://roscontrol.com/product/aysberri-filevskiy-stakanchik-plombir-v-vafelnom-stakanchike-1/
+471,Продукты,Молочные продукты,Мороженое - рейтинг,"""Айсберри / Филевский стаканчик"" пломбир в вафельном стаканчике",-1,79,43,49,83,https://roscontrol.com/product/aysberri-filevskiy-stakanchik-plombir-v-vafelnom-stakanchike/
+472,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое ""Чистая линия"" ""Ленинградское""",-1,85,47,42,100,https://roscontrol.com/product/morogenoe-chistaya-liniya-leningradskoe/
+473,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Чистая линия"" ""Радуга"" в печенье",-1,85,22,44,100,https://roscontrol.com/product/morogenoe-plombir-chistaya-liniya-raduga-v-pechene/
+474,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Чистая линия"" ""Радуга"" в вафельном стаканчике",-1,83,27,49,100,https://roscontrol.com/product/morogenoe-plombir-chistaya-liniya-raduga-v-vafelnom-stakanchike/
+475,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Чистая линия"" ""Радуга"" на палочке",-1,83,32,41,100,https://roscontrol.com/product/morogenoe-plombir-chistaya-liniya-raduga-na-palochke/
+476,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Чистая линия"" ""Манго""",-1,85,10,38,100,https://roscontrol.com/product/morogenoe-plombir-chistaya-liniya-mango/
+477,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Чистая линия"" ""Семейное"" ванильное",-1,85,47,37,100,https://roscontrol.com/product/plombir-vanil-nyi-chistaia-liniia-brikiet-siemieinoie/
+478,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Чистая линия""",-1,82,57,47,93,https://roscontrol.com/product/eskimo-11-kopieiek-plombir-vanil-nyi-v-shokoladnoi-ghlazuri-chistaia-liniia/
+479,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое ""Чистая линия"" эскимо в апельсиновой глазури",-1,65,47,45,85,https://roscontrol.com/product/morogenoe-chistaya-liniya-eskimo-v-apelsinovoy-glazuri/
+480,Продукты,Молочные продукты,Мороженое - рейтинг,"Пломбир шоколадный ""Чистая линия"" в сахарном рожке",-1,56,47,65,95,https://roscontrol.com/product/plombir-shokoladnyi-chistaia-liniia-v-sakharnom-rozhkie/
+481,Продукты,Молочные продукты,Мороженое - рейтинг,"Пломбир ""Чистая линия"" ""Лакомка Московская"" ванильный",-1,57,77,57,95,https://roscontrol.com/product/lakomka-moskovskaia-plombir-vanil-nyi-vo-vzbitoi-shokoladnoi-ghlazuri-chistaia-liniia/
+482,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Айсберри / Филёвский пломбир""",-1,65,32,56,95,https://roscontrol.com/product/morogenoe-plombir-aysberri-filvskiy-plombir/
+483,Продукты,Молочные продукты,Мороженое - рейтинг,"""Чистая линия"" пломбир в вафельном стаканчике",-1,92,61,54,52,https://roscontrol.com/product/chistaya-liniya-plombir-v-vafelnom-stakanchike/
+484,Продукты,Молочные продукты,Мороженое - рейтинг,"""Пломбироешка"" пломбир ванильный ""Чистая Линия""",-1,89,62,53,58,https://roscontrol.com/product/plombiroieshka-plombir-vanil-nyi-chistaia-liniia/
+485,Продукты,Молочные продукты,Мороженое - рейтинг,"Пломбир ""Чистая линия"" семейное",-1,87,62,55,61,https://roscontrol.com/product/chistaya-liniya-1/
+486,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Малиновый кактус"" пломбир с малиновым наполнителем в глазури",-1,88,9,22,100,https://roscontrol.com/product/eskimo-malinoviy-kaktus-plombir-s-malinovim-napolnitelem-v-glazuri/
+487,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Кактус"" пломбир с клубникой в глазури",-1,88,9,36,100,https://roscontrol.com/product/eskimo-kaktus-plombir-s-klubnikoy-v-glazuri/
+488,Продукты,Молочные продукты,Мороженое - рейтинг,"""Айсберри / Филевский стаканчик"" пломбир в вафельном стаканчике",-1,75,43,46,87,https://roscontrol.com/product/aysberri-filevskiy-stakanchik-plombir-v-vafelnom-stakanchike-1/
+489,Продукты,Молочные продукты,Мороженое - рейтинг,"""Айсберри / Филевский стаканчик"" пломбир в вафельном стаканчике",-1,79,43,49,83,https://roscontrol.com/product/aysberri-filevskiy-stakanchik-plombir-v-vafelnom-stakanchike/
+490,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое ""Чистая линия"" ""Ленинградское""",-1,85,47,42,100,https://roscontrol.com/product/morogenoe-chistaya-liniya-leningradskoe/
+491,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Чистая линия"" ""Радуга"" в печенье",-1,85,22,44,100,https://roscontrol.com/product/morogenoe-plombir-chistaya-liniya-raduga-v-pechene/
+492,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Чистая линия"" ""Радуга"" в вафельном стаканчике",-1,83,27,49,100,https://roscontrol.com/product/morogenoe-plombir-chistaya-liniya-raduga-v-vafelnom-stakanchike/
+493,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Чистая линия"" ""Радуга"" на палочке",-1,83,32,41,100,https://roscontrol.com/product/morogenoe-plombir-chistaya-liniya-raduga-na-palochke/
+494,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Чистая линия"" ""Манго""",-1,85,10,38,100,https://roscontrol.com/product/morogenoe-plombir-chistaya-liniya-mango/
+495,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Чистая линия"" ""Семейное"" ванильное",-1,85,47,37,100,https://roscontrol.com/product/plombir-vanil-nyi-chistaia-liniia-brikiet-siemieinoie/
+496,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Чистая линия""",-1,82,57,47,93,https://roscontrol.com/product/eskimo-11-kopieiek-plombir-vanil-nyi-v-shokoladnoi-ghlazuri-chistaia-liniia/
+497,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое ""Чистая линия"" эскимо в апельсиновой глазури",-1,65,47,45,85,https://roscontrol.com/product/morogenoe-chistaya-liniya-eskimo-v-apelsinovoy-glazuri/
+498,Продукты,Молочные продукты,Мороженое - рейтинг,"Пломбир шоколадный ""Чистая линия"" в сахарном рожке",-1,56,47,65,95,https://roscontrol.com/product/plombir-shokoladnyi-chistaia-liniia-v-sakharnom-rozhkie/
+499,Продукты,Молочные продукты,Мороженое - рейтинг,"Пломбир ""Чистая линия"" ""Лакомка Московская"" ванильный",-1,57,77,57,95,https://roscontrol.com/product/lakomka-moskovskaia-plombir-vanil-nyi-vo-vzbitoi-shokoladnoi-ghlazuri-chistaia-liniia/
+500,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Айсберри / Филёвский пломбир""",-1,65,32,56,95,https://roscontrol.com/product/morogenoe-plombir-aysberri-filvskiy-plombir/
+501,Продукты,Молочные продукты,Мороженое - рейтинг,"""Чистая линия"" пломбир в вафельном стаканчике",-1,92,61,54,52,https://roscontrol.com/product/chistaya-liniya-plombir-v-vafelnom-stakanchike/
+502,Продукты,Молочные продукты,Мороженое - рейтинг,"""Пломбироешка"" пломбир ванильный ""Чистая Линия""",-1,89,62,53,58,https://roscontrol.com/product/plombiroieshka-plombir-vanil-nyi-chistaia-liniia/
+503,Продукты,Молочные продукты,Мороженое - рейтинг,"Пломбир ""Чистая линия"" семейное",-1,87,62,55,61,https://roscontrol.com/product/chistaya-liniya-1/
+504,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Чистая линия"" в вафельном рожке",-1,90,45,51,58,https://roscontrol.com/product/morogenoe-chistaya-liniya/
+505,Продукты,Молочные продукты,Мороженое - рейтинг,Мороженое пломбир GLOBUS,58,98,37,21,57,https://roscontrol.com/product/morogenoe-plombir-globus/
+506,Продукты,Молочные продукты,Мороженое - рейтинг,Мороженое пломбир «Дело в сливках/Полярис»,59,98,32,20,63,https://roscontrol.com/product/morogenoe-plombir-delo-v-slivkahpolyaris/
+507,Продукты,Молочные продукты,Мороженое - рейтинг,Мороженое пломбир «48 копеек»,64,98,27,33,76,https://roscontrol.com/product/48-kopeek-plombir-v-vafelnom-stakanchike/
+508,Продукты,Молочные продукты,Мороженое - рейтинг,Мороженое пломбир «Коровка из Кореновки»,71,98,42,28,93,https://roscontrol.com/product/morozhenoe-korovka-iz-korenovki/
+509,Продукты,Молочные продукты,Мороженое - рейтинг,Мороженое пломбир «Сарафаново»,68,98,32,31,85,https://roscontrol.com/product/morogenoe-plombir-sarafanovo/
+510,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Коровка из Кореновки""",76,89,67,46,89,https://roscontrol.com/product/eskimo-korovka-iz-korenovki/
+511,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое ""Филёвское мороженое / Айсберри"" шербет",63,92,40,7,87,https://roscontrol.com/product/morogenoe-filvskoe-morogenoe-aysberri-shcherbet-1/
+512,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое ""ВкусВилл"" сорбет",70,92,90,35,58,https://roscontrol.com/product/morogenoe-vkusvill-sorbet/
+513,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое ""О`кей"" шербет",67,92,43,18,89,https://roscontrol.com/product/morogenoe-okey-shcherbet/
+514,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое ""Коровка из Кореновки"" шербет",70,91,57,27,87,https://roscontrol.com/product/morogenoe-korovka-iz-korenovki-shcherbet/
+515,Продукты,Молочные продукты,Мороженое - рейтинг,Мороженое .TU шербет,68,86,62,13,91,https://roscontrol.com/product/morogenoe-tu-shcherbet/
+516,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""ГОСТовский пломбир""",73,88,62,41,85,https://roscontrol.com/product/eskimo-gostovskiy-plombir/
+517,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Выбор Кремля""",76,91,70,39,91,https://roscontrol.com/product/eskimo-vibor-kremlya/
+518,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Свитлогорье""",75,86,72,42,89,https://roscontrol.com/product/eskimo-svitlogore/
+519,Продукты,Молочные продукты,Мороженое - рейтинг,"""Артек"" пломбир в вафельном стаканчике",63,64,32,59,85,https://roscontrol.com/product/artek-plombir-v-vashelnom-stakanchike/
+520,Продукты,Молочные продукты,Мороженое - рейтинг,"""Инмарко"", ""Золотой стандарт"" классический пломбир в вафельном стаканчике",67,97,33,47,73,https://roscontrol.com/product/zolotoy-standart-klassicheskiy-plombir/
+521,Продукты,Молочные продукты,Мороженое - рейтинг,"""Вологодский пломбир"" в вафельном стаканчике",65,82,57,51,62,https://roscontrol.com/product/plombir-v-vafel-nom-stakanchike-vologodskii-plombir/
+522,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Золотой Стандарт/Инмарко"" в вафельном рожке",65,96,32,36,74,https://roscontrol.com/product/morogenoe-zolotoy-standratinmarko-v-vafelnom-rogke/
+523,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Челны Холод"" в вафельном рожке",63,91,43,49,57,https://roscontrol.com/product/morogenoe-chelni-holod/
+524,Продукты,Молочные продукты,Мороженое - рейтинг,"""Русский холод"", ""СССР"" пломбир в вафельном стаканчике",48,85,37,23,35,https://roscontrol.com/product/sssr-plombir-v-vafelnom-stakanchike/
+525,Продукты,Молочные продукты,Мороженое - рейтинг,"Пломбир ""СССР""",49,76,24,45,41,https://roscontrol.com/product/sssr/
+526,Продукты,Молочные продукты,Мороженое - рейтинг,"Пломбир ""Инмарко"" ""Золотой стандарт""",49,65,37,48,43,https://roscontrol.com/product/zolotoy-standart/
+527,Продукты,Молочные продукты,Мороженое - рейтинг,Мороженое пломбир «Настоящий пломбир»,62,80,32,31,83,https://roscontrol.com/product/morogenoe-plombir-nastoyashchiy-plombir/
+528,Продукты,Молочные продукты,Мороженое - рейтинг,Мороженое Natur Ice шербет,48,89,55,18,23,https://roscontrol.com/product/morogenoe-natur-ice-shcherbet/
+529,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Вологодский пломбир""",0,0,0,0,0,https://roscontrol.com/product/eskimo-vologodskiy-plombir/
+530,Продукты,Молочные продукты,Мороженое - рейтинг,"""Русский холод"", ""Настоящий пломбир"" в вафельном стаканчике",55,82,47,35,47,https://roscontrol.com/product/nastoyashchiy-plombir-plombir-v-vafelnom-stakanchike/
+531,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""48 копеек""",62,92,28,43,67,https://roscontrol.com/product/eskimo-48-kopeek/
+532,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Гроспирон"" в вафельном рожке",62,90,55,33,57,https://roscontrol.com/product/morogenoe-grospiron-v-vafelnom-rogke/
+533,Продукты,Молочные продукты,Мороженое - рейтинг,"Мороженое пломбир ""Русский холод"" ""Настоящий пломбир"" в вафельном рожке",57,91,35,26,58,https://roscontrol.com/product/morogenoe-russkiy-holod-nastoyashchiy-plombir-v-vafelnom-rogke/
+534,Продукты,Молочные продукты,Мороженое - рейтинг,"""Гроспирон"", ""Мальчик-стаканчик"" пломбир в вафельном стаканчике",50,88,48,13,37,https://roscontrol.com/product/malchik-stakanchik-plombir-v-vafelnom-stakanchike/
+535,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Снежное лакомство""",-1,0,0,0,0,https://roscontrol.com/product/eskimo-snegnoe-lakomstvo/
+536,Продукты,Молочные продукты,Мороженое - рейтинг,"""Наша семья / Лакомо"" пломбир в вафельном стаканчике",-1,0,0,0,0,https://roscontrol.com/product/nasha-semya-lakomo-plombir-v-vafelnom-stakanchike/
+537,Продукты,Молочные продукты,Мороженое - рейтинг,"""СибХолод / Сибирское"" пломбир в вафельном стаканчике",-1,0,0,0,0,https://roscontrol.com/product/sibholod-sibirskoe-plombir-v-vafelnom-stakanchike/
+538,Продукты,Молочные продукты,Мороженое - рейтинг,"""Гроспирон / Натур Пломбир"" пломбир в вафельном стаканчике",-1,0,0,0,0,https://roscontrol.com/product/grospiron-natur-plombir-plombir-v-vafelnom-stakanchike/
+539,Продукты,Молочные продукты,Мороженое - рейтинг,"Эскимо ""Лакомо-Наша семья""",-1,0,0,0,0,https://roscontrol.com/product/eskimo-lakomo-nasha-semya/
+540,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Вкуснотеево""",59,57,82,52,46,https://roscontrol.com/product/sirok-vkusnoteevo/
+541,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Простоквашино""",45,79,28,27,44,https://roscontrol.com/product/sirok-prostokvashino/
+542,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Творобушки""",54,76,52,51,37,https://roscontrol.com/product/tvorobushki/
+543,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Свитлогорье""",52,70,43,48,48,https://roscontrol.com/product/sirok-svitlogore/
+544,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Ромашкино""",45,70,35,34,42,https://roscontrol.com/product/romashkino/
+545,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Б.Ю.Александров"", в темном шоколаде",-1,0,0,0,0,https://roscontrol.com/product/byualeksandrov-3/
+546,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Билла""",-1,0,0,0,0,https://roscontrol.com/product/sirok-billa/
+547,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Ростагроэкспорт""",-1,0,0,0,0,https://roscontrol.com/product/syrok-rostaghroeksport/
+548,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Б.Ю. Александров"" в молочном шоколаде",-1,0,0,0,0,https://roscontrol.com/product/sirok-byu-aleksandrov-tvorogniy/
+549,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Воздушный Фикси-сырок"", шоколадный",-1,0,0,0,0,https://roscontrol.com/product/vozdushniy-fiksi-sirok-shokoladniy/
+550,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Сюрприз""",-1,0,0,0,0,https://roscontrol.com/product/syurpriz-s-vanilinom/
+551,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Птичье молоко""",-1,0,0,0,0,https://roscontrol.com/product/ptiche-moloko-sirok-sufle-tvorogniy-glazirovanniy-vanilniy/
+552,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Б.Ю. Александров""",-1,0,0,0,0,https://roscontrol.com/product/byu-aleksandrov-sirki-tvorognie-glazirovannie-v-molochnom-shokolade-s-vanilyu/
+553,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Демик""",-1,0,0,0,0,https://roscontrol.com/product/demik-vanilin/
+554,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Воздушный Фикси-сырок"", со сгущенкой",-1,0,0,0,0,https://roscontrol.com/product/vozdushniy-fiksi-sirok-s-napolnitelem-varenaya-sgushchenka/
+555,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Воздушный Фикси-сырок"", клубничный",-1,0,0,0,0,https://roscontrol.com/product/vozdushniy-fiksi-sirok-klubnika/
+556,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Чудо""",-1,0,0,0,0,https://roscontrol.com/product/chudo-1/
+557,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Ростагроэкспорт"", ""Картошка""",-1,0,0,0,0,https://roscontrol.com/product/rostagroeksport-kartoshka/
+558,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Вкуснотеево""",59,57,82,52,46,https://roscontrol.com/product/sirok-vkusnoteevo/
+559,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Простоквашино""",45,79,28,27,44,https://roscontrol.com/product/sirok-prostokvashino/
+560,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Творобушки""",54,76,52,51,37,https://roscontrol.com/product/tvorobushki/
+561,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Свитлогорье""",52,70,43,48,48,https://roscontrol.com/product/sirok-svitlogore/
+562,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Ромашкино""",45,70,35,34,42,https://roscontrol.com/product/romashkino/
+563,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Б.Ю.Александров"", в темном шоколаде",-1,0,0,0,0,https://roscontrol.com/product/byualeksandrov-3/
+564,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Билла""",-1,0,0,0,0,https://roscontrol.com/product/sirok-billa/
+565,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Ростагроэкспорт""",-1,0,0,0,0,https://roscontrol.com/product/syrok-rostaghroeksport/
+566,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"Сырок ""Б.Ю. Александров"" в молочном шоколаде",-1,0,0,0,0,https://roscontrol.com/product/sirok-byu-aleksandrov-tvorogniy/
+567,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Воздушный Фикси-сырок"", шоколадный",-1,0,0,0,0,https://roscontrol.com/product/vozdushniy-fiksi-sirok-shokoladniy/
+568,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Сюрприз""",-1,0,0,0,0,https://roscontrol.com/product/syurpriz-s-vanilinom/
+569,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Птичье молоко""",-1,0,0,0,0,https://roscontrol.com/product/ptiche-moloko-sirok-sufle-tvorogniy-glazirovanniy-vanilniy/
+570,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Б.Ю. Александров""",-1,0,0,0,0,https://roscontrol.com/product/byu-aleksandrov-sirki-tvorognie-glazirovannie-v-molochnom-shokolade-s-vanilyu/
+571,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Демик""",-1,0,0,0,0,https://roscontrol.com/product/demik-vanilin/
+572,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Воздушный Фикси-сырок"", со сгущенкой",-1,0,0,0,0,https://roscontrol.com/product/vozdushniy-fiksi-sirok-s-napolnitelem-varenaya-sgushchenka/
+573,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Воздушный Фикси-сырок"", клубничный",-1,0,0,0,0,https://roscontrol.com/product/vozdushniy-fiksi-sirok-klubnika/
+574,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Чудо""",-1,0,0,0,0,https://roscontrol.com/product/chudo-1/
+575,Продукты,Молочные продукты,Сырки глазированные - рейтинг,"""Ростагроэкспорт"", ""Картошка""",-1,0,0,0,0,https://roscontrol.com/product/rostagroeksport-kartoshka/
+576,Продукты,Молочные продукты,Зернёный творог и зернёные творожные продукты - рейтинг,"Творог зерненый ""Рузский""",75,95,80,39,84,https://roscontrol.com/product/tvorog-zerneniy-ruzskiy/
+577,Продукты,Молочные продукты,Зернёный творог и зернёные творожные продукты - рейтинг,"Творог зерненый ""Искренне Ваш""",65,96,65,45,55,https://roscontrol.com/product/tvorog-zerneniy-iskrenne-vash/
+578,Продукты,Молочные продукты,Зернёный творог и зернёные творожные продукты - рейтинг,"Творог зерненый ""Романов луг""",63,89,60,44,59,https://roscontrol.com/product/tvorog-zerneniy-romanov-lug/
+579,Продукты,Молочные продукты,Зернёный творог и зернёные творожные продукты - рейтинг,"Творог зернёный ""Савушкин"", ""101 зерно + сливки"" 5%",67,90,55,43,78,https://roscontrol.com/product/tvorog-savushkin-zernniy-5/
+580,Продукты,Молочные продукты,Зернёный творог и зернёные творожные продукты - рейтинг,"Продукт творожный ""Простоквашино"", творожное зерно в сливках 7%",59,89,55,52,39,https://roscontrol.com/product/tvorozhnoie-zierno-prostokvashino/
+581,Продукты,Молочные продукты,Зернёный творог и зернёные творожные продукты - рейтинг,"Творог зернёный ""Карат"", ""Домашний"" 4 %",58,89,60,37,45,https://roscontrol.com/product/tvorog-karat-domashniy-zernniy/
+582,Продукты,Молочные продукты,Зернёный творог и зернёные творожные продукты - рейтинг,"Продукт творожный ""Домик в деревне"", творожное зерно в сливках 5%",59,70,60,58,49,https://roscontrol.com/product/domik-v-derevne-tvorognoe-zerno-5/
+583,Продукты,Молочные продукты,Зернёный творог и зернёные творожные продукты - рейтинг,"Творог зерненый ""Избёнка"" 4%",-1,0,0,0,0,https://roscontrol.com/product/tvorog-zerneniy-izbnka-4/
+584,Продукты,Молочные продукты,Зернёный творог и зернёные творожные продукты - рейтинг,"Творог зерненый ""Залесский фермер"" 5%",-1,0,0,0,0,https://roscontrol.com/product/tvorog-zerneniy-zalesskiy-fermer-5/
+585,Продукты,Молочные продукты,Зернёный творог и зернёные творожные продукты - рейтинг,"Творог зернёный ""Милава"" 5%",-1,0,0,0,0,https://roscontrol.com/product/tvorog-zernniy-milava-5/
+586,Продукты,Молочные продукты,Зернёный творог и зернёные творожные продукты - рейтинг,"Творог зерненый ""Волоколамский молочный завод""",-1,0,0,0,0,https://roscontrol.com/product/tvorog-zerneniy-volokolamskiy-molochniy-zavod/
