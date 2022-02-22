@@ -1,0 +1,28 @@
+Типовые запросы:
+
+-- Просроченные задачи по программам
+SELECT 
+(select program.programm_name from program where program.programm_id = (select project.program_programm_id from project where project.project_id = task.project_project_id)) as "Программа",
+(select project.description from project where project.project_id = task.project_project_id) as "Проект",
+task.description as "Название задачи",
+(select user.name from user where user.user_id = task.user_user_id) as 'Исполнитель',
+(select date(now()) - date(task.task_end_plan)) as "Дней просрочено"
+FROM mydb.task
+where
+task.task_end_plan < now() and task.task_completed <=> null;
+
+--Плановые бюджеты программ и проектов программ
+
+SELECT
+program.programm_name as "Программа",
+(select sum(programm_budget.cost_plan)) as "плановые затраты программы",
+project.description as "Проект",
+(select sum(project_budget.cost_plan)) as "плановые затраты проекта",
+(select sum(project_budget.cost_actual)) as "фактические затраты проекта"
+FROM mydb.program left join  mydb.project
+on program_programm_id = programm_id
+left join mydb.programm_budget
+on programm_budget.program_programm_id = program.programm_id
+left join mydb.project_budget
+on project_id = project_project_id
+group by project.description

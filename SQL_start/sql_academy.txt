@@ -1,0 +1,69 @@
+SELECT class, count(Student) AS count FROM Student_in_class GROUP BY class ORDER BY count DESC;
+select status, min(birthday) as birthday from FamilyMembers group by status
+select plane, avg(TIMESTAMPDIFF(second, time_out, time_in)) as time from trip group by plane
+select room_id, avg(price) as avg_price, count(price) as count from Reservations GROUP BY room_id ORDER BY count desc, avg_price desc
+select room_id, avg(price) as avg_price, count(price) as count from Reservations GROUP BY room_id HAVING avg_price > 150 ORDER BY count desc, avg_price desc
+
+
+select Class.name, Student_in_class.student
+from class join Student_in_class
+on Class.id = Student_in_class.class
+
+select Class.name, first_name
+from class join Student_in_class join Student
+on Class.id = Student_in_class.class and Student_in_class.student = Student.id
+
+SELECT good_name 
+FROM Payments 
+join FamilyMembers
+on family_member =  member_id
+join Goods
+on good=good_id
+where FamilyMembers.status = 'son'
+
+select room_id, avg(rating) as avg_score
+from Reviews
+join
+Reservations
+on reservation_id = Reservations.id
+group by Reservations.room_id
+
+select * from Company ORDER BY name asc limit 2
+select start_pair, end_pair from Timepair limit 1,2
+
+select Passenger.name, (SELECT count(Pass_in_trip.id) from Pass_in_trip where Pass_in_trip.passenger = Passenger.id) as count FROM Passenger;
+select Goods.good_name from goods where Goods.good_id not in (SELECT Payments.good from Payments);
+select * from rooms where (has_tv, has_internet, has_kitchen, has_air_con) = (select has_tv, has_internet, has_kitchen, has_air_con from Rooms where id = 11);
+
+
+WITH report 
+    AS (
+	SELECT
+	(select FamilyMembers.member_name from FamilyMembers where FamilyMembers.member_id = Payments.family_member) as member_name,
+	(select FamilyMembers.status from FamilyMembers where FamilyMembers.member_id = Payments.family_member) as status, 
+	(select Goods.good_name from Goods where Goods.good_id = Payments.good) as good_name,
+	sum(Payments.amount*Payments.unit_price) as costs
+	FROM payments
+	WHERE Payments.date BETWEEN  '2005-07-01' AND '2005-09-30'
+	GROUP BY member_name, STATUS, good_name 
+	order by member_name, costs DESC         
+    )
+SELECT * FROM report
+UNION 
+SELECT 
+null as member_name,
+null as status,
+'Total:' as good_name,
+SUM(costs) as costs
+FROM report
+
+delete goods,GoodTypes FROM Goods JOIN GoodTypes ON Goods.type = GoodTypes.good_type_id WHERE GoodTypes.good_type_name = "delicacies"
+
+select UPPER(member_name) as name from FamilyMembers;
+SELECT LPAD(good_id, 2, '0') as ids FROM Goods;
+SELECT LEFT(member_name, (LOCATE(" ", member_name))-1) as firstName FROM FamilyMembers;
+
+select Reservations.room_id, CEILING(avg(price)) as avg_price from Reservations GROUP BY Reservations.room_id
+select * from (select Reservations.room_id, count(Reservations.price) as count from Reservations 
+GROUP BY Reservations.room_id) t where MOD(count,2) > 0
+

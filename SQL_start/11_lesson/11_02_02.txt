@@ -1,0 +1,9 @@
+Практическое задание по теме “NoSQL”
+
+2. При помощи базы данных Redis решите задачу поиска имени пользователя по электронному адресу и наоборот, поиск электронного адреса пользователя по его имени.
+
+set evgenii@gmail.com eugene
+set eugene evgenii@gmail.com
+
+get evgenii@gmail.com 
+get eugene 
